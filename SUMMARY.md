@@ -8,13 +8,13 @@
 * [Quem pode acessar o CAGEC?](quem-pode-acessar-o-cagec.md)
 * [Quem pode ser convenente/parceiro?](quem-pode-ser-convenente-parceiro.md)
 * [Cadastro de Usuários e Senha](cadastro-de-usuarios-e-senha/README.md)
-  * [Cadastro de Novo Usuário](cadastro-de-usuarios-e-senha/cadastro-de-novo-usuario.md)
   * [Senha de Representante Legal Cadastrado no Sistema Anterior](cadastro-de-usuarios-e-senha/criacao-de-senha-de-representante-legal.md)
   * [Recuperação de Senha](cadastro-de-usuarios-e-senha/recuperacao-de-senha.md)
 * [Atualizações](atualizacoes/README.md)
   * [Atualização de Documentos](atualizacoes/atualizacao-de-documentos.md)
   * [Atualização de Dados](atualizacoes/atualizacao-de-dados.md)
-* [Dados e Documentos Necessários para a Regularidade da Instituição](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao.md)
+* [Dados e Documentos Necessários para a Regularidade da Instituição](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/README.md)
+  * [MUNICÍPIOS](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/municipios.md)
 
 ## TESTE
 
