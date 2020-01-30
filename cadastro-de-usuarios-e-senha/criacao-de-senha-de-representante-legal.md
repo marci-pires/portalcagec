@@ -8,19 +8,21 @@ Lembramos que o endereço para o qual as informações foram enviadas é o ender
 
 ## **LOGIN**
 
-1º passo: Acessar o Portal Cagec conforme instruções encaminhadas por e-mail.
+**1º passo:** Acessar o [Portal Cagec](www.portalcagec.mg.gov.br) conforme instruções encaminhadas por e-mail.
 
-2º passo: clicar no campo LOGIN
+**2º passo:** clicar no campo LOGIN
 
 ![](../.gitbook/assets/image.png)
 
-3º passo: Preencher os campos “CPF” e “Senha”
+**3º passo:** Preencher os campos **CPF** e **Senha**
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
 {% hint style="danger" %}
 O campo **CPF** deve ser preenchido com o CPF do **REPRESENTANTE LEGAL** e a **SENHA** preenchida de acordo com as instruções enviadas por e-mail.
 {% endhint %}
+
+**4º passo:** clique no ícone no canto superior esquerdo da página:    ![](file:///C:/Users/m1483463/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
 
 ## RECUPERAÇÃO DE SENHA
 
