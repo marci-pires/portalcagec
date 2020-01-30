@@ -23,8 +23,7 @@ Para problemas sérios!!
 Para dicas e boas práticas no sistema
 {% endhint %}
 
-Esperamos que gostem e que esse material possa ser útil!
+## Esperamos que gostem e que esse material possa ser útil!
 
-Atenciosamente,   
-Equipe da Diretoria de Atendimento
+### Atenciosamente,  Equipe da Diretoria de Atendimento
 
