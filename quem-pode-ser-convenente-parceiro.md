@@ -2,7 +2,7 @@
 
 De acordo com o Decreto nº 44.293, de 10 de maio de 2006, e, atualmente, previsto nos Arts. 71 e 72 do Decreto nº 46.319, de 26 de setembro de 2013, podem celebrar convênios, acordos, ajustes e outros instrumentos congêneres envolvendo a transferência de recursos financeiros de dotações consignadas no orçamento fiscal as entidades a seguir
 
-* [x] Município
+* [ ] Município
 
 b\)    Entidade Pública Municipal
 
