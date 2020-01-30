@@ -1,5 +1,7 @@
 # MANUAL DE UTILIZAÇÃO CAGEC
 
+![](.gitbook/assets/teste.jpg)
+
 > ESSE É IO MANUAL MAIS ATUALIZADO
 
 ## BRUNA
