@@ -1,6 +1,6 @@
 # Recuperação de Senha
 
-O acesso ao Portal do Cagec é realizado através do fornecimento de CPF e senha. Caso o **Representante legal** não tenha localizado ou recebido o e-mail com sua nova senha e instruções para acesso ao novo sistema, acesse o Portal do Cagec \( [www.portalcagec.mg.gov.br](http://www.portalcagec.mg.gov.br)\), e clique nos campos de acordo com as informações ilustrados a seguir:
+O acesso ao Portal do Cagec é realizado através do fornecimento de CPF e senha. Caso o **REPRESENTANTE LEGAL** não tenha localizado ou recebido o e-mail com sua nova senha e instruções para acesso ao novo sistema, acesse o [Portal do Cagec](WWW.PORTALCAGEC.MG.GOV.BR), e clique nos campos de acordo com as informações ilustrados a seguir:
 
 **1º PASSO:** clique no campo **LOGIN**:
 

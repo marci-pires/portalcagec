@@ -1,9 +1,9 @@
 # Senha de Representante Legal Cadastrado no Sistema Anterior
 
 {% hint style="info" %}
-Em 31 de janeiro de 2020 foi encaminhado para todos os Representantes legais usuários do sistema antigo do CAGEC um e-mail com os dados e informações de acesso ao novo sistema do CAGEF. O e-mail enviado tem como remetente o endereço seg.corporativa@prodemge.gov.br
+Nos dias 30 e 31 de janeiro de 2020 foi encaminhado para todos os Representantes legais usuários do sistema antigo do CAGEC um e-mail com os dados e informações de acesso ao novo sistema do CAGEC. O e-mail enviado tem como remetente o endereço seg.corporativa@prodemge.gov.br
 
-Lembramos que o endereço para o qual as informações foram enviadas é o endereço do REPRESENTANTE LEGAL.
+Lembramos que o endereço para o qual as informações foram enviadas é o endereço de e-mail do REPRESENTANTE LEGAL.
 {% endhint %}
 
 ## **LOGIN**
