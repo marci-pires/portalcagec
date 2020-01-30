@@ -26,9 +26,3 @@ O campo **CPF** deve ser preenchido com o CPF do **REPRESENTANTE LEGAL** e a **S
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
-![](../.gitbook/assets/image%20%288%29.png)
-
-## RECUPERAÇÃO DE SENHA
-
-O acesso ao Portal do Cagec é realizado através do fornecimento de CPF e senha. Caso o **Representante legal** não tenha localizado ou recebido o e-mail com sua nova senha e instruções para acesso ao novo sistema, este deverá acessar o [Portal do Cagec](www.portalcagec.mg.gov.br) e clicar nos campos descritos abaixo
-
