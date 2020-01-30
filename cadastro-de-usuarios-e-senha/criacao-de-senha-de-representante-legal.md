@@ -8,7 +8,7 @@ Lembramos que o endereço para o qual as informações foram enviadas é o ender
 
 ## **LOGIN**
 
-**1º passo:** Acessar o [Portal Cagec](www.portalcagec.mg.gov.br) conforme instruções encaminhadas por e-mail.
+**1º passo:** Acessar o Cagec conforme através do link encaminhado por e-mail.
 
 **2º passo:** clicar no campo **ACESSO AO CAGEC**
 
