@@ -1,4 +1,4 @@
-# Cadastro de Usuários e Senha
+# 🔑 Cadastro de Usuários e Senha
 
 Escolha uma das opções abaixo para acessar!
 

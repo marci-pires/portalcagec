@@ -1,4 +1,4 @@
-# MANUAL DE UTILIZAÇÃO CAGEC
+# 📖 MANUAL DE UTILIZAÇÃO CAGEC
 
 Prezados usuários,  
 Esse manual foi desenvolvido com o objetivo de explicar o passo-a-passo para a utilização do sistema CAGEC.
