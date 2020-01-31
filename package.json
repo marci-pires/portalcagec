@@ -1,1 +1,4 @@
 $ npm install gitbook-styleguide --save-dev
+
+const Button = require('gitbook-styleguide/lib/Button')
+
