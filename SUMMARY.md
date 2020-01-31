@@ -6,7 +6,7 @@
   * [Integração entre Sistemas Estaduais e Federais](o-que-e-o-cagec/integracao-entre-sistemas-estaduais-e-federais.md)
   * [Fundamentação Jurídica](o-que-e-o-cagec/fundamentacao-juridica.md)
 * [🤔 Quem pode acessar o CAGEC?](quem-pode-acessar-o-cagec.md)
-* [✔ Quem pode ser convenente/parceiro?](quem-pode-ser-convenente-parceiro.md)
+* [✅ Quem pode ser convenente/parceiro?](quem-pode-ser-convenente-parceiro.md)
 * [🔑 Cadastro de Usuários e Senha](cadastro-de-usuarios-e-senha/README.md)
   * [Senha de Representante Legal Cadastrado no Sistema Anterior](cadastro-de-usuarios-e-senha/criacao-de-senha-de-representante-legal.md)
   * [Recuperação de Senha](cadastro-de-usuarios-e-senha/recuperacao-de-senha.md)
