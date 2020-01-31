@@ -1,4 +1,10 @@
 # Cadastro de Usuários e Senha
 
-![](../.gitbook/assets/image%20%286%29.png)
+Escolha uma das opções abaixo para acessar!
+
+{% page-ref page="criacao-de-senha-de-representante-legal.md" %}
+
+{% page-ref page="recuperacao-de-senha.md" %}
+
+
 
