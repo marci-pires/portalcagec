@@ -24,7 +24,6 @@
   * [Consórcio Público de Direito Privado](http://www.portalcagec.mg.gov.br/wp-content/uploads/arquivos/legislacao/resolu%C3%A7%C3%B5es/05/anexos/Anexo-1-Cons%C3%B3rcio-P%C3%BAblico-de-Direito-Privado.pdf)
   * [Entidade Privada Sem Fins Lucrativos](http://www.portalcagec.mg.gov.br/wp-content/uploads/arquivos/legislacao/resolu%C3%A7%C3%B5es/05/anexos/Anexo-1-Entidade-Privada-Sem-Fins-Lucrativos.pdf)
   * [Cooperativa](http://www.portalcagec.mg.gov.br/wp-content/uploads/arquivos/legislacao/resolu%C3%A7%C3%B5es/05/anexos/Anexo-1-Cooperativa.pdf)
-  * [Cooperativa](http://www.portalcagec.mg.gov.br/wp-content/uploads/arquivos/legislacao/resolu%C3%A7%C3%B5es/05/anexos/Anexo-1-Organiza%C3%A7%C3%A3o-Religiosa.pdf)
   * [Organização Religiosa](http://www.portalcagec.mg.gov.br/wp-content/uploads/arquivos/legislacao/resolu%C3%A7%C3%B5es/05/anexos/Anexo-1-Organiza%C3%A7%C3%A3o-Religiosa.pdf)
   * [Fundo Municipal de Saúde](http://www.portalcagec.mg.gov.br/wp-content/uploads/arquivos/legislacao/resolu%C3%A7%C3%B5es/05/anexos/Anexo-1-Fundo-Municipal-de-Sa%C3%BAde.pdf)
   * [Fundo Municipal de Assistência Social](http://www.portalcagec.mg.gov.br/wp-content/uploads/arquivos/legislacao/resolu%C3%A7%C3%B5es/05/anexos/Anexo-1-Fundo-Municipal-de-Assist%C3%AAncia-Social.pdf)
