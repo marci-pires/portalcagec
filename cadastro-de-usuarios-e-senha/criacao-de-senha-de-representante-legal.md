@@ -10,9 +10,13 @@ Lembramos que o endereço para o qual as informações foram enviadas é o ender
 
 **1º passo:** Acessar o Cagec conforme através do link encaminhado por e-mail.
 
+![](../.gitbook/assets/pagina-inicial-cagec.PNG)
+
+
+
 **2º passo:** clicar no campo **ACESSO AO CAGEC**
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/novo-cagec-login.PNG)
 
 **3º passo:** Preencher os campos **CPF** e **Senha**
 
