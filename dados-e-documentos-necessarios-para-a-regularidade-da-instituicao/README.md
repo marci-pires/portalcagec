@@ -2,7 +2,7 @@
 
 ## DADOS
 
-Após o login no Portal Cagec, havendo necessidade, o Representante Legal deverá atualizar seus dados pessoais e da Instituição
+Após o login no Portal Cagec, havendo necessidade, o Representante Legal deverá atualizar seus dados pessoais e da Instituição. Para explicações, acesse [🔄 Atualizações de Documentos e Dados](../atualizacoes/)
 
 ## DOCUMENTAÇÃO
 
