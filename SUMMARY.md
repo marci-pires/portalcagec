@@ -10,7 +10,7 @@
 * [🔑 Cadastro de Usuários e Senha](cadastro-de-usuarios-e-senha/README.md)
   * [Senha de Representante Legal Cadastrado no Sistema Anterior](cadastro-de-usuarios-e-senha/criacao-de-senha-de-representante-legal.md)
   * [Recuperação de Senha](cadastro-de-usuarios-e-senha/recuperacao-de-senha.md)
-* [Atualizações](atualizacoes/README.md)
+* [🔄 Atualizações](atualizacoes/README.md)
   * [Atualização de Documentos](atualizacoes/atualizacao-de-documentos.md)
   * [Atualização de Dados](atualizacoes/atualizacao-de-dados.md)
 * [📄 Dados e Documentos Necessários para a Regularidade da Instituição](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/README.md)
