@@ -6,7 +6,7 @@ O Cadastro Geral de Convenentes do Estado de Minas Gerais – **CAGEC**, criado 
 
 **Cadastro Geral de Convenentes – CAGEC**  
 Cidade Administrativa Presidente Tancredo Neves  
-Rodovia Papa João Paulo II, n.º 4001Edifício Gerais – 1º Andar – Bairro Serra Verde  
+Rodovia Papa João Paulo II, n.º 4001 Edifício Gerais – 1º Andar – Bairro Serra Verde  
 Belo Horizonte – MG – CEP: 31630-901  
   
 **Telefones de contato:**  
