@@ -20,15 +20,15 @@ Lembramos que o endereço para o qual as informações foram enviadas é o ender
 
 **3º passo:** Preencher os campos **CPF** e **Senha**
 
-![](../.gitbook/assets/image%20%2867%29.png)
+![](../.gitbook/assets/image%20%2868%29.png)
 
 {% hint style="danger" %}
 O campo **CPF** deve ser preenchido com o CPF do **REPRESENTANTE LEGAL** e a **SENHA** preenchida de acordo com as instruções enviadas por e-mail.
 {% endhint %}
 
-**4º passo:** clique no ícone ![](../.gitbook/assets/image%20%2821%29.png) e no canto superior esquerdo da página para acessar   **"SOLICITAÇÕES e CONSULTAS"**
+**4º passo:** clique no ícone ![](../.gitbook/assets/image%20%2822%29.png) e no canto superior esquerdo da página para acessar   **"SOLICITAÇÕES e CONSULTAS"**
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](../.gitbook/assets/image%20%2821%29.png)
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 

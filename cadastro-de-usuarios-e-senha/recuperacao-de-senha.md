@@ -4,23 +4,23 @@ O acesso ao Portal do Cagec é realizado através do fornecimento de CPF e senha
 
 **1º PASSO:** clique no campo **ACESSO AO CAGEC**
 
-![](../.gitbook/assets/image%20%2871%29.png)
+![](../.gitbook/assets/image%20%2872%29.png)
 
 **2º PASSO:** Clique em “Esqueceu sua senha?"
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 **3º PASSO:** digite o CPF do representante legal
 
-![](../.gitbook/assets/image%20%2855%29.png)
+![](../.gitbook/assets/image%20%2856%29.png)
 
 **4º PASSO:** escolha a opção "e-mail principal"
 
-![](../.gitbook/assets/image%20%2848%29.png)
+![](../.gitbook/assets/image%20%2849%29.png)
 
 **5º PASSO:** Digite o e-mail cadastrado no antigo sistema
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 **6º PASSO:** O procedimento para troca de senha será encaminhado para o e-mail previamente cadastrado
 
