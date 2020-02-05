@@ -12,7 +12,6 @@
   * [Senha de Representante Legal Cadastrado no Sistema Anterior](cadastro-de-usuarios-e-senha/criacao-de-senha-de-representante-legal.md)
   * [Recuperação de Senha](cadastro-de-usuarios-e-senha/recuperacao-de-senha.md)
 * [🔄 Atualizações de Documentos e Dados](atualizacoes/README.md)
-  * [Atualização de Documentos](atualizacoes/atualizacao-de-documentos.md)
   * [Solicitar Atualização de Dados do Parceiro/Convenente](atualizacoes/atualizacao-de-dados.md)
 * [📄 Dados e Documentos Necessários para a Regularidade da Instituição](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/README.md)
   * [Município](http://www.portalcagec.mg.gov.br/wp-content/uploads/arquivos/legislacao/resolu%C3%A7%C3%B5es/05/anexos/Anexo-1-Municipio.pdf)
