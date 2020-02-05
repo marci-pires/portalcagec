@@ -10,7 +10,7 @@ Este fluxo possibilita que o usuário altere dados do parceiro/convenente, bem c
 
 ![](../.gitbook/assets/image%20%289%29.png)
 
-Após realizado o cabeçalho da tela exibirá esta barra.
+Após realizado, o cabeçalho da tela exibirá esta barra.
 
 ![](../.gitbook/assets/image%20%288%29.png)
 
