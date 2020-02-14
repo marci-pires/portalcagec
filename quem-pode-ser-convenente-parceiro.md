@@ -19,3 +19,9 @@ n. Fundo Municipal de Saúde
 o. Fundo Municipal de Assistência Social   
 p. Serviço Social Autônomo
 
+
+
+**A descrição da documentação necessária para cada convenente/parceiro está disponível no campo: Dados e Documentos necessários para a Regularidade da Instituição'' no Menu à esquerda.**
+
+
+
