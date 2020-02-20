@@ -4,7 +4,7 @@
 
 **1º PASSO:** Acesse o portal Cagec, desça a página e clique na opção 
 
-![](../../../.gitbook/assets/image%20%2829%29.png)
+
 
 ![](../../../.gitbook/assets/image%20%2822%29.png)
 
