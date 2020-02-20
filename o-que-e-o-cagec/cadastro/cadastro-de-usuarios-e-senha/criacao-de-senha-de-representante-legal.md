@@ -18,7 +18,7 @@ Após acessar o e-mail e ter acesso aos dados para o login, clique em " clique a
 
 
 
-**2º passo:** clicar no campo **ACESSO AO CAGEC**
+**2º passo:** passe o mouse no campo **ENTRAR** e depois clique em **USUÁRIO EXISTENTE**
 
 ![](../../../.gitbook/assets/image%20%281%29.png)
 

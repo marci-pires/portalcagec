@@ -86,7 +86,7 @@ Clicar no botão "Filtrar":
 
 Selecionar o documento desejado, lembrando que o sistema só possibilita a inserção de um documento por vez ou de todos ao mesmo tempo:
 
-![](../.gitbook/assets/image%20%2870%29.png)
+![](../.gitbook/assets/image%20%2871%29.png)
 
 Clicar na primeira seta para inserir o documento:
 
@@ -122,7 +122,7 @@ Além da anexação, alguns documentos são gerados pelo próprio sistema e só 
 
 ![](../.gitbook/assets/image%20%2828%29.png)
 
-![](../.gitbook/assets/image%20%2874%29.png)
+![](../.gitbook/assets/image%20%2875%29.png)
 
 ![](../.gitbook/assets/image%20%2819%29.png)
 
@@ -136,7 +136,7 @@ O documento “Termo de Declaração e Concordância e Veracidade” possui uma 
 
 Após a impressão e assinatura pelo representante legal, o documento deve ser anexado ao sistema seguindo a mesma lógica descrita no item 13.
 
-![](../.gitbook/assets/image%20%2868%29.png)
+![](../.gitbook/assets/image%20%2869%29.png)
 
 Por fim, após a anexação e a assinatura dos documentos o parceiro/convenente deverá clicar no botão finalizar solicitação, onde será gerado o número da mesma e o processo é encaminhado para avaliação da equipe gestora do Cagec.
 

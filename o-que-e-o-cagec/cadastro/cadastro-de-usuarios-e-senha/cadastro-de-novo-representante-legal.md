@@ -2,11 +2,11 @@
 
 ## Para cadastrar novo usuário na modalidade de Representante Legal, siga os seguintes passos
 
-**1º PASSO:** Acesse o portal Cagec, desça a página e clique na opção 
+**1º PASSO:** Acesse o portal Cagec, passe o mouse em "Entrar" e clique em "Novo Usuário"
 
+ 
 
-
-![](../../../.gitbook/assets/image%20%2822%29.png)
+![](../../../.gitbook/assets/image%20%2868%29.png)
 
 **2º PASSO:** Preencha os dados \(assim como na página abaixo\) e clique em “SALVAR”
 
@@ -14,7 +14,7 @@
 **PARA QUE A SOLICITAÇÃO DE CADASTRO SEJA SALVA, É INDISPENSÁVEL O PREENCHIMENTO DE TODOS OS CAMPOS MARCADOS COM  ''\*''\(ASTERISCO\).**
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%2869%29.png)
+![](../../../.gitbook/assets/image%20%2870%29.png)
 
 **3º PASSO:** Após clicar em salvar, aparecerá a seguinte tela
 
@@ -30,7 +30,7 @@
 
 **6º PASSO:** Na página inicial clique em **LOGIN**
 
-![](../../../.gitbook/assets/image%20%2845%29.png)
+\*\*\*\*
 
 **7º PASSO:** Preencher os campos "CPF' e "Senha"
 
