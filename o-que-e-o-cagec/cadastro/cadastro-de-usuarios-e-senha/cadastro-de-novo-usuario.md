@@ -1,4 +1,4 @@
-# Cadastro de Novo Representante Legal
+# Cadastro de Novo Usuário
 
 ## Para cadastrar novo usuário na modalidade de Representante Legal, siga os seguintes passos
 
@@ -28,13 +28,15 @@
 
 ![](../../../.gitbook/assets/image%20%2842%29.png)
 
-**6º PASSO:** Na página inicial clique em **LOGIN**
+**6º PASSO:** Na página inicial passe o mouse em **ENTRAR** e clique em **Usuário Existente**
 
-\*\*\*\*
+![](../../../.gitbook/assets/image%20%281%29.png)
 
 **7º PASSO:** Preencher os campos "CPF' e "Senha"
 
 
+
+![](../../../.gitbook/assets/image%20%2833%29.png)
 
 **8º PASSO:** clique no ícone ![](../../../.gitbook/assets/image%20%2843%29.png) no canto superior esquerdo da página e no canto superior esquerdo da página para acessar   **"SOLICITAÇÕES e CONSULTAS"**
 

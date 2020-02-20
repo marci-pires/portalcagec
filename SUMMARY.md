@@ -5,7 +5,7 @@
   * [Inscrição](o-que-e-o-cagec/inscricao.md)
   * [Cadastro](o-que-e-o-cagec/cadastro/README.md)
     * [🔑 Cadastro de Usuários e Senha](o-que-e-o-cagec/cadastro/cadastro-de-usuarios-e-senha/README.md)
-      * [Cadastro de Novo Representante Legal](o-que-e-o-cagec/cadastro/cadastro-de-usuarios-e-senha/cadastro-de-novo-representante-legal.md)
+      * [Cadastro de Novo Usuário](o-que-e-o-cagec/cadastro/cadastro-de-usuarios-e-senha/cadastro-de-novo-usuario.md)
       * [Senha de Representante Legal Cadastrado no Sistema Anterior](o-que-e-o-cagec/cadastro/cadastro-de-usuarios-e-senha/criacao-de-senha-de-representante-legal.md)
       * [Recuperação de Senha](o-que-e-o-cagec/cadastro/cadastro-de-usuarios-e-senha/recuperacao-de-senha.md)
   * [Integração entre Sistemas Estaduais e Federais](o-que-e-o-cagec/integracao-entre-sistemas-estaduais-e-federais.md)
