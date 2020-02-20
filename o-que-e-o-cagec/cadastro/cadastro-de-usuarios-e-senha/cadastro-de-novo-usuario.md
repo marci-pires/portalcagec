@@ -2,9 +2,7 @@
 
 ## Para cadastrar novo usuário na modalidade de Representante Legal, siga os seguintes passos
 
-**1º PASSO:** Acesse o portal Cagec, passe o mouse em "Entrar" e clique em "Novo Usuário"
-
- 
+**1º PASSO:** Acesse o portal Cagec, passe o mouse em "Entrar" e clique em "Novo Usuário" 
 
 ![](../../../.gitbook/assets/image%20%2869%29.png)
 
