@@ -52,6 +52,10 @@ A aba “Dados do Parceiro/Convenente” permite a alteração dos dados de pess
 
 ![](../.gitbook/assets/image%20%2845%29.png)
 
+                                                      Atenção!
+
+No campo " DATA DE ABERTURA", o dado a ser preenchido é a data de abertura  do Convenente/Parceiro de acordo com a Inscrição no CNPJ.
+
 #### 9º passo
 
 A aba “Quadro de Dirigentes” permite alterações dos dados do representante legal e do quadro de dirigentes, sendo este último de preenchimento necessário apenas para o gênero “Organizações da Sociedade Civil”, gênero “Fundos Municipais” e gênero “Serviços Sociais Autônomos”. As edições e exclusões são feitas pelos ícones de “pincel” e “lixeira”, respectivamente, dentro da coluna ações.
