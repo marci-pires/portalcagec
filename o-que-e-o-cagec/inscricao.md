@@ -4,13 +4,11 @@
 
 ## **🤔 Qual a diferença entre Inscrição e Cadastro?**
 
-A **inscrição** é destinada a dois tipos de usuários:
+A **inscrição** é destinada a três tipos de usuários:
 
+1º  Aos **REPRESENTANTES LEGAIS** que não possuíam cadastro antes do lançamento do Portal Cagec, ou 
 
-
-1º  
-
-2º Aos usuários que antes do lançamento do Portal Cagec \(em 31 de janeiro de 2020\) já eram cadastrados como REPRESENTANTES LEGAIS.  
+2º Aos usuários que antes do lançamento do Portal Cagec já eram cadastrados como RESPONSÁVEL PELAS INFORMAÇÕES  
 
 \*\*\*\*
 
