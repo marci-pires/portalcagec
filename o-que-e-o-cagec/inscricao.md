@@ -6,7 +6,7 @@
 
 A **inscrição** é destinada a três tipos de usuários:
 
-1º  Aos **REPRESENTANTES LEGAIS** que não possuíam cadastro antes do lançamento do Portal Cagec, ou 
+1º  Aos **REPRESENTANTES LEGAIS** que não possuíam cadastro antes do lançamento do Portal Cagec, ou que não receberam o e-mail 
 
 2º Aos usuários que antes do lançamento do Portal Cagec já eram cadastrados como RESPONSÁVEL PELAS INFORMAÇÕES  
 
