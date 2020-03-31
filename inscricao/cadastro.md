@@ -92,7 +92,7 @@ A principal aba de qualquer solicitação, “Documentação”, é onde o usuá
 
 #### 17º passo
 
-Para que as assinaturas digitais sejam válidas, é necessário que pelo menos os documentos “Autorretrato \(Selfie\) segurando o documento de identificação”, “Documento de Identificação do Representante Legal” e “Termo de Declaração de Concordância e Veracidade” sejam anexados ao sistema. Todos eles encontram-se no agrupamento “Credenciamento do Representante Legal”.
+Para que as assinaturas digitais sejam válidas, é necessário que pelo menos os documentos “Autorretrato \(Selfie\) segurando o documento de identificação”, “Documento de Identificação do Responsável pelas informações” e “Termo de Declaração de Concordância e Veracidade **assinados pelo Representante Legal** ” sejam anexados ao sistema. Todos eles encontram-se no agrupamento “Credenciamento do Representante Legal”.
 
 Na aba de incluir documento, selecionar o agrupamento desejado:
 
