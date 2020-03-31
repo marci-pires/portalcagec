@@ -10,7 +10,7 @@
 * [🖥 Cadastro](cadastro/README.md)
   * [🔑 Cadastro de Novo Usuário e Senha](cadastro/cadastro-de-usuarios-e-senha/README.md)
     * [Senha de Representante Legal Cadastrado no Sistema Anterior](cadastro/cadastro-de-usuarios-e-senha/criacao-de-senha-de-representante-legal.md)
-    * [Recuperação de Senha](cadastro/cadastro-de-usuarios-e-senha/recuperacao-de-senha.md)
+* [🔑Recuperação de Senha](recuperacao-de-senha.md)
 * [✅ Quem pode ser convenente/parceiro?](quem-pode-ser-convenente-parceiro.md)
 * [🔄 Atualizações de Documentos e Dados](atualizacoes.md)
 * [Solicitar Atualização de Dados do Parceiro/Convenente](atualizacao-de-dados.md)

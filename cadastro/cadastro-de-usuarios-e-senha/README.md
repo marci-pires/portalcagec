@@ -44,5 +44,5 @@
 
 {% page-ref page="criacao-de-senha-de-representante-legal.md" %}
 
-{% page-ref page="recuperacao-de-senha.md" %}
+{% page-ref page="../../recuperacao-de-senha.md" %}
 
