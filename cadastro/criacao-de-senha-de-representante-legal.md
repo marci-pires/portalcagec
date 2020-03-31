@@ -1,4 +1,4 @@
-# Senha de Representante Legal Cadastrado no Sistema Anterior
+# 🔑 Senha de Representante Legal Cadastrado no Sistema Anterior
 
 
 
@@ -12,7 +12,7 @@ Lembramos que o endereço para o qual as informações foram enviadas é o ender
 
 **1º passo:** Acessar o Cagec conforme instruções encaminhadas por e-mail remetido pela Prodemge em 31 de janeiro de 2020
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 Após acessar o e-mail e ter acesso aos dados para o login, clique em " clique aqui para realizar o seu primeiro acesso", em seguida aparecerá a seguinte tela: 
 
@@ -20,19 +20,19 @@ Após acessar o e-mail e ter acesso aos dados para o login, clique em " clique a
 
 **2º passo:** passe o mouse no campo **ENTRAR** e depois clique em **USUÁRIO EXISTENTE**
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 **3º passo:** Preencher os campos **CPF** e **Senha**
 
-![](../../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 {% hint style="danger" %}
 O campo **CPF** deve ser preenchido com o CPF do **REPRESENTANTE LEGAL** e a **SENHA** preenchida de acordo com as instruções enviadas por e-mail.
 {% endhint %}
 
-**4º passo:** clique no ícone ![](../../.gitbook/assets/image%20%2826%29.png) e no canto superior esquerdo da página para acessar   **"SOLICITAÇÕES e CONSULTAS"**
+**4º passo:** clique no ícone ![](../.gitbook/assets/image%20%2826%29.png) e no canto superior esquerdo da página para acessar   **"SOLICITAÇÕES e CONSULTAS"**
 
-![](../../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
-![](../../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
