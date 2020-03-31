@@ -1,4 +1,4 @@
-# 🔑Recuperação de Senha
+# 🔐 Recuperação de Senha
 
 Acesse o [Portal do Cagec](WWW.PORTALCAGEC.MG.GOV.BR), e clique nos campos de acordo com as informações ilustrados a seguir:
 

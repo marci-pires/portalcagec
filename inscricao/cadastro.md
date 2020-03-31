@@ -1,4 +1,4 @@
-# 🔑 Inscrição de Responsável pelas informações
+# ⌨️Inscrição de Responsável pelas informações
 
 ## Para cadastrar usuário na modalidade de Responsável pelas Informações siga os seguintes passos: 
 
