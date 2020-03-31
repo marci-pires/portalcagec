@@ -8,9 +8,9 @@ A **inscrição** é destinada a dois tipos de usuários:
 
 
 
-1º Aos usuários que antes do lançamento do Portal Cagec \(em 31 de janeiro de 2020\) já eram cadastrados como REPRESENTANTES LEGAIS. 
+1º  
 
-2º
+2º Aos usuários que antes do lançamento do Portal Cagec \(em 31 de janeiro de 2020\) já eram cadastrados como REPRESENTANTES LEGAIS.  
 
 \*\*\*\*
 
