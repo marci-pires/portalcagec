@@ -10,7 +10,7 @@ Lembramos que o endereço para o qual as informações foram enviadas é o ender
 
 ## **LOGIN**
 
-**1º passo:** Acessar o Cagec conforme instruções encaminhadas por e-mail remetido pela Prodemg em 31 de janeiro de 2020
+**1º passo:** Acessar o Cagec conforme instruções encaminhadas por e-mail remetido pela Prodemge em 31 de janeiro de 2020
 
 ![](../../.gitbook/assets/image%20%285%29.png)
 
