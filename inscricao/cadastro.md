@@ -62,11 +62,12 @@ Após a busca, deverá ser criada a solicitação de alteração de dados por me
 
 #### 13º passo
 
-A aba “Dados do Parceiro/Convenente” permite a alteração dos dados de pessoa jurídica do CNPJ em mudança. Caso algum dado seja alterado nesta tela, o parceiro/convenente deverá necessariamente inserir documentações comprobatórias desta mudança na aba de “Documentação”. Todas abas, daqui em diante, possuem um botão de salvar no fim delas e esta atividade é necessária para que os dados sejam registrados no sistema.
+A aba “Dados do Parceiro/Convenente” permite a alteração dos dados de pessoa jurídica do CNPJ em mudança. Caso algum dado seja alterado nesta tela, o parceiro/convenente deverá necessariamente inserir documentações comprobatórias desta mudança na aba de “Documentação”, até a aprovação do cadastro, todos os documentos que necessitarem de assinatura, deverão ser assinados pelo Representante legal.   
+Todas abas, daqui em diante, possuem um botão de salvar no fim delas e esta atividade é **indispensável** para que os dados sejam registrados no sistema.
 
 ![](../.gitbook/assets/image%20%2845%29.png)
 
-                                                      Atenção!
+##                                        ⚠️Atenção!
 
 No campo " DATA DE ABERTURA", o dado a ser preenchido é a data de abertura  do Convenente/Parceiro de acordo com a Inscrição no CNPJ.
 

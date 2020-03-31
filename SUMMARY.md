@@ -8,7 +8,7 @@
 * [🖥 Inscrição](inscricao/README.md)
   * [🔑 Inscrição de Responsável pelas informações](inscricao/cadastro.md)
 * [🖥 Cadastro](cadastro/README.md)
-  * [🔑 Cadastro de Usuários e Senha](cadastro/cadastro-de-usuarios-e-senha/README.md)
+  * [🔑 Cadastro de Novo Usuário e Senha](cadastro/cadastro-de-usuarios-e-senha/README.md)
     * [Cadastro de Novo Usuário](cadastro/cadastro-de-usuarios-e-senha/cadastro-de-novo-usuario.md)
     * [Senha de Representante Legal Cadastrado no Sistema Anterior](cadastro/cadastro-de-usuarios-e-senha/criacao-de-senha-de-representante-legal.md)
     * [Recuperação de Senha](cadastro/cadastro-de-usuarios-e-senha/recuperacao-de-senha.md)
