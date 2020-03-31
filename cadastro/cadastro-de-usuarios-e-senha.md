@@ -1,4 +1,4 @@
-# 🔑 Cadastro de Novo Usuário e Senha
+# 🗂Cadastro de Novo Usuário e Senha
 
 ## Para cadastrar novo usuário na modalidade de Representante Legal, siga os seguintes passos
 

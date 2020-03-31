@@ -1,4 +1,4 @@
-# 🔑 Senha de Representante Legal Cadastrado no Sistema Anterior
+# 🗝 Senha de Representante Legal Cadastrado no Sistema Anterior
 
 
 
