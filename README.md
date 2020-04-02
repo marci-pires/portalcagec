@@ -3,7 +3,7 @@
 Prezados usuários,  
 Esse manual foi desenvolvido com o objetivo de explicar o passo-a-passo para a utilização do sistema CAGEC.
 
-### A navegação nesse manual _online_ é bem simples! Do lado esquerdo, temos o sumário e do direito algumas opções para navegar entre os subtítulos da página.
+### 🖥 ⌨️🖱navegação nesse manual _online_ é bem simples! Do lado esquerdo, temos o sumário e do direito algumas opções para navegar entre os subtítulos da página.
 
 Para facilitar a compreensão, no decorrer do texto, vocês encontrarão caixas como as abaixo. Elas vão servir para ajudar a compreensão e chamar atenção para pontos importantes! 🤓 
 

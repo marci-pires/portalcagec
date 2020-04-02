@@ -10,9 +10,9 @@ Rodovia Papa João Paulo II, n.º 4001 Edifício Gerais – 1º Andar – Bairro
 Belo Horizonte – MG – CEP: 31630-901  
   
 **Telefones de contato:**  
-\(31\) 3915-2090 . \(31\) 3915-2091  
-\(31\) 3915-2092 . \(31\) 3915-0882  
-\(31\) 3915-8883 . \(31\) 3915-2749  
+☎️\(31\) 3915-2090 . \(31\) 3915-2091  
+☎️\(31\) 3915-2092 . \(31\) 3915-0882  
+☎️\(31\) 3915-8883 . \(31\) 3915-2749  
   
 **E-mail:** [cagec@governo.mg.gov.br](mailto:cagec@governo.mg.gov.br)
 

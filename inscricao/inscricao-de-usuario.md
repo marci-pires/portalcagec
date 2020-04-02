@@ -4,7 +4,7 @@ description: >-
   da emissão de CRC ou para verificar a autenticidade de declaração.
 ---
 
-# ⌨️Inscrição de usuário
+# ⌨️ Inscrição de usuário
 
 Esta guia visa demonstrar como é o processo de inscrição simples. É a fase inicial para Representante Legal, Responsável pela informação e qualquer pessoa física que desejar ser pode ser um usuário do sistema.
 

@@ -1,4 +1,4 @@
-# Fundamentação Jurídica
+# ⚖️ Fundamentação Jurídica
 
 O regulamento do Cadastro Geral de Convenentes do Estado de Minas Gerais estabelecido pelo Secretário-Adjunto de Estado de Governo  e o Controlador-Geral Do Estado, no uso de suas atribuições previstas no § 1º do art. 93 da Constituição do Estado e Lei Estadual nº 23.304 de 30 de maio de 30 de maior de 2019, foi elaborado nos termos das seguintes legislações
 
