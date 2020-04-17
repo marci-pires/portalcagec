@@ -12,7 +12,7 @@
   * [⌨️ Cadastro de Novo Usuário e Senha](cadastro/cadastro-de-usuarios-e-senha.md)
   * [🔑 Senha de Representante Legal Cadastrado no Sistema Anterior](cadastro/criacao-de-senha-de-representante-legal.md)
 * [🔐 Recuperação de Senha](recuperacao-de-senha.md)
-* [🔄 Solicitar Atualização de Dados do Parceiro/Convenente](atualizacao-de-dados.md)
+* [🔄 Solicitar Atualização de Dados e Documentos do Parceiro/Convenente](atualizacao-de-dados.md)
 * [🗂 Dados e Documentos Necessários para a Regularidade da Instituição](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/README.md)
   * [Município](http://www.portalcagec.mg.gov.br/wp-content/uploads/arquivos/legislacao/resolu%C3%A7%C3%B5es/05/anexos/Anexo-1-Municipio.pdf)
   * [Entidade Pública Municipal](http://www.portalcagec.mg.gov.br/wp-content/uploads/arquivos/legislacao/resolu%C3%A7%C3%B5es/05/anexos/Anexo-1-Entidade-P%C3%BAblica-Municipal.pdf)
