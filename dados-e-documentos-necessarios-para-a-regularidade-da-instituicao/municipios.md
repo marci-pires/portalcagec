@@ -4,7 +4,7 @@ description: >-
   no Anexo da Resolução Conjunta SEGOV/CGE 006/2020
 ---
 
-# Município
+# ● Município
 
 | **Documento** | Descrição | Validade |
 | :---: | :---: | :--- |
