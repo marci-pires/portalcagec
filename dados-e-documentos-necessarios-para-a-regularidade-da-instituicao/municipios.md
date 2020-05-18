@@ -23,6 +23,10 @@ description: >-
 | Autorização para comunicação eletrônica relativa a convênios e parcerias   | Autorização para recebimento de comunicação relativa a convênios e parcerias por meio eletrônico, inclusive para prestação de contas e Pace - Parcerias | Até o término do mandato |  |
 |  |  |  |  |
 |  | **Regularidade Fiscal e Trabalhista** |  |  |
+| Regularidade perante o Fundo de Garantia do Tempo de Serviço - FGTS   | Certificado de Regularidade de Situação perante o Fundo de Garantia do Tempo de Serviço \(FGTS\). | Validade da certidão |  |
+| Regularidade perante a Seguridade Social | Certidão de Débitos Relativos a Créditos Tributários Federais e à Dívida Ativa da União, negativa ou positiva com efeitos de negativa, expedida conjuntamente pela Secretaria Especial da Receita Federal do Brasil \(RFB\) e pela Procuradoria-Geral da Fazenda Nacional \(PGFN\). | Validade da certidão |  |
+| Regularidade perante a Justiça do Trabalho | Certidão Negativa de Débitos Trabalhistas \(CNDT\) positiva com efeitos de negativa. | Validade da certidão |  |
+| Regularidade perante a Fazenda Pública do Estado de Minas Gerais | Certidão de Débitos Tributários Estadual disponível no Sistema Integrado de Administração da Receita Estadual \(SIARE\), mantido pela Secretaria de Estado de Fazenda. | Validade da certidão | **Regularidade em relação ao pagamento de tributos, empréstimos e financiamentos devidos ao Estado de Minas Gerais** |
 
 
 
