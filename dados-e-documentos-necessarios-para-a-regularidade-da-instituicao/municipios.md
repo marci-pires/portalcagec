@@ -6,8 +6,6 @@ description: >-
 
 # ● Município
 
-![](../.gitbook/assets/anexo-1-municipio.pdf)
-
 | **Documento** | Descrição | Validade | Observação |
 | :---: | :---: | :--- | :--- |
 |  | **Habilitação jurídica** |  |  |
