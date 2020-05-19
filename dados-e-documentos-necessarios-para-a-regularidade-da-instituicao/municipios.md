@@ -29,5 +29,5 @@ description: >-
 | Regularidade perante a Justiça do Trabalho | Certidão Negativa de Débitos Trabalhistas \(CNDT\) positiva com efeitos de negativa. | Validade da certidão |  |
 | Regularidade perante a Fazenda Pública do Estado de Minas Gerais | Certidão de Débitos Tributários Estadual disponível no Sistema Integrado de Administração da Receita Estadual \(SIARE\), mantido pela Secretaria de Estado de Fazenda. | Validade da certidão | **Regularidade em relação ao pagamento de tributos, empréstimos e financiamentos devidos ao Estado de Minas Gerais** |
 
-
+ ****
 
