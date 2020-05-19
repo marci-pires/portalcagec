@@ -6,7 +6,7 @@ description: >-
 
 # ● Município
 
-| \*\*\*\* |  |  | Obs |
+| \*\*\*\* |  |  |  |
 | :---: | :---: | :--- | :--- |
 |  | **HABILITAÇÃO JURÍDICA** |  |  |
 | **Documento** | **Descrição** | **Validade** | **Observação** |
