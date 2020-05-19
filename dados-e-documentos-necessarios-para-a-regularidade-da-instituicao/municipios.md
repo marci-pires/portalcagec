@@ -12,9 +12,9 @@ Para acessar ao anexo por completo, acesse ao link disponibilizado:
 [http://www.portalcagec.mg.gov.br/wp-content/uploads/arquivos/legislacao/resolu%C3%A7%C3%B5es/05/anexos/Anexo-1-Municipio.pdf](http://www.portalcagec.mg.gov.br/wp-content/uploads/arquivos/legislacao/resolu%C3%A7%C3%B5es/05/anexos/Anexo-1-Municipio.pdf)
 {% endhint %}
 
+### **A seguir, descrição dos documentos necessários, suas respectivas descrições, validade e observações.**
 
-
-| \*\*\*\* |  |  |  |
+|  |  |  |  |
 | :---: | :---: | :--- | :---: |
 |  | **HABILITAÇÃO JURÍDICA** |  |  |
 | **Documento** | **Descrição** | **Validade** | **Observação** |
