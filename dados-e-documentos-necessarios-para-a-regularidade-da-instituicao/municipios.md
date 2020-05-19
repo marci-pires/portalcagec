@@ -8,7 +8,7 @@ description: >-
 
 Para acessar ao anexo por completo, acesse ao link disponibilizado:
 
-{% hint style="info" %}
+{% hint style="danger" %}
 [http://www.portalcagec.mg.gov.br/wp-content/uploads/arquivos/legislacao/resolu%C3%A7%C3%B5es/05/anexos/Anexo-1-Municipio.pdf](http://www.portalcagec.mg.gov.br/wp-content/uploads/arquivos/legislacao/resolu%C3%A7%C3%B5es/05/anexos/Anexo-1-Municipio.pdf)
 {% endhint %}
 
@@ -37,5 +37,13 @@ Para acessar ao anexo por completo, acesse ao link disponibilizado:
 | Regularidade perante a Justiça do Trabalho | Certidão Negativa de Débitos Trabalhistas \(CNDT\) positiva com efeitos de negativa. | Validade da certidão |  |
 | Regularidade perante a Fazenda Pública do Estado de Minas Gerais | Certidão de Débitos Tributários Estadual disponível no Sistema Integrado de Administração da Receita Estadual \(SIARE\), mantido pela Secretaria de Estado de Fazenda. | Validade da certidão | **Regularidade em relação ao pagamento de tributos, empréstimos e financiamentos devidos ao Estado de Minas Gerais** |
 
- ****
+**REGULARIDADE NO USO DE RECURSOS PÚBLICOS E ADIMPLÊNCIA COM O ESTADO DE                                                                                            MINAS GERAIS** 
+
+|  |  |  |  |
+| :--- | :--- | :--- | :--- |
+| **Documento** | **Descrição** | **Validade** | **Observação** |
+|  |  |  |  |
+|  |  |  |  |
+
+
 
