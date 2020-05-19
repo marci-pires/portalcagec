@@ -6,8 +6,6 @@ description: >-
 
 # ● ENTIDADE PÚBLICA MUNICIPAL
 
-{% page-ref page="entidade-publica-municipal.md" %}
-
 
 
 
