@@ -8,7 +8,7 @@ description: >-
 
 Para acessar o anexo por completo, acesse ao link disponibilizado:
 
-{% hint style="danger" %}
+{% hint style="info" %}
 [http://www.portalcagec.mg.gov.br/wp-content/uploads/arquivos/legislacao/resolu%C3%A7%C3%B5es/05/anexos/Anexo-1-Servi%C3%A7o-Social-Aut%C3%B4nomo.pdf](http://www.portalcagec.mg.gov.br/wp-content/uploads/arquivos/legislacao/resolu%C3%A7%C3%B5es/05/anexos/Anexo-1-Servi%C3%A7o-Social-Aut%C3%B4nomo.pdf)
 {% endhint %}
 
