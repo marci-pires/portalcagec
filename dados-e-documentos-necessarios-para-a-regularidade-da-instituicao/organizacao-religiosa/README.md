@@ -45,7 +45,7 @@ Para acessar o anexo por completo, acesse ao link disponibilizado:
         <p></p>
       </td>
       <td style="text-align:center">Prova de inscri&#xE7;&#xE3;o no Cadastro Nacional de Pessoas Jur&#xED;dicas
-        (CNPJ) atualizado ou revalidado</td>
+        (CNPJ) atualizado ou revalidado.</td>
       <td style="text-align:left">At&#xE9; o t&#xE9;rmino do mandato</td>
       <td style="text-align:center"></td>
     </tr>

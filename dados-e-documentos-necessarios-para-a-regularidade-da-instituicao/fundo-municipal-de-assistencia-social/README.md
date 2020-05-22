@@ -35,7 +35,7 @@ Para acessar o anexo por completo, acesse ao link disponibilizado:
 | Comprovante de endereço do secretário municipal  | Comprovante de endereço do secretário municipal emitido em até 90 dias da data de apresentação do documento ou declaração de moradia assinada pelo secretário municipal.  | Até o término do mandato |  |
 | Declaração de concordância e veracidade   | Termo de declaração de concordância e veracidade para a possibilitar a assinatura digital em todo o processo de convênios e parcerias assinado pelo secretário municipal.  | Até o término do mandato |  |
 |  Autorretrato \(Selfie\) segurando o documento de Identificação do secretário municipal   | Autorretrato \(Selfie\) segurando o documento de Identificação para habilitar assinatura digital em sistemas corporativos do governo estadual. | Até o término do mandato |  |
-| Autorização para comunicação eletrônica relativa a convênios e parcerias   | Autorização para recebimento de comunicação relativa a convênios e parcerias por meio eletrônico, inclusive para prestação de contas e PACEParcerias.  | Até o término do mandato |  |
+| Autorização para comunicação eletrônica relativa a convênios e parcerias   | Autorização para recebimento de comunicação relativa a convênios e parcerias por meio eletrônico, inclusive para prestação de contas e PACE-Parcerias.  | Até o término do mandato |  |
 |  | **AUTENCIDADE DOS DOCUMENTOS** | \*\*\*\* |  |
 |  | **Obrigação** | **Descrição** | **Validade** |
 | Declaração de autenticidade dos documentos apresentados   | Declaração de autenticidade dos documentos apresentados com anexação assinada pelo secretário municipal. | Menor validade dos documentos declarados autênticos |  |

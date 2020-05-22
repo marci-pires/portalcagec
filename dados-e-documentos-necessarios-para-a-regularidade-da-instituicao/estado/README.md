@@ -149,7 +149,7 @@ Para acessar o anexo por completo, acesse ao link disponibilizado:
         a conv&#xEA;nios e parcerias</td>
       <td style="text-align:center">Autoriza&#xE7;&#xE3;o para recebimento de comunica&#xE7;&#xE3;o relativa
         a conv&#xEA;nios e parcerias por meio eletr&#xF4;nico, inclusive para presta&#xE7;&#xE3;o
-        de contas e PACEParcerias.</td>
+        de contas e PACE-Parcerias.</td>
       <td style="text-align:left">At&#xE9; o t&#xE9;rmino do mandato</td>
       <td style="text-align:center"></td>
     </tr>
@@ -200,7 +200,7 @@ Para acessar o anexo por completo, acesse ao link disponibilizado:
       <td
       style="text-align:center">Certid&#xE3;o de D&#xE9;bitos Tribut&#xE1;rios Estadual dispon&#xED;vel
         no Sistema Integrado de Administra&#xE7;&#xE3;o da Receita Estadual (SIARE),
-        mantido pela Secretaria de Estado de Fazenda</td>
+        mantido pela Secretaria de Estado de Fazenda.</td>
         <td style="text-align:left">Validade da certid&#xE3;o</td>
         <td style="text-align:center">Regularidade em rela&#xE7;&#xE3;o ao pagamento de tributos, empr&#xE9;stimos
           e financiamentos devidos ao Estado de Minas Gerais</td>
@@ -400,7 +400,7 @@ Para acessar o anexo por completo, acesse ao link disponibilizado:
       <td style="text-align:center">Declara&#xE7;&#xE3;o de autenticidade dos documentos apresentados</td>
       <td
       style="text-align:center">Declara&#xE7;&#xE3;o de autenticidade dos documentos apresentados com
-        anexa&#xE7;&#xE3;o assinada pelo governador</td>
+        anexa&#xE7;&#xE3;o assinada pelo governador.</td>
         <td style="text-align:left">Menor validade dos documentos declarados aut&#xEA;nticos</td>
         <td style="text-align:center"></td>
     </tr>

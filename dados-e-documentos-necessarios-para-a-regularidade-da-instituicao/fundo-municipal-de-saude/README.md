@@ -18,7 +18,7 @@ Para acessar o anexo por completo, acesse ao link disponibilizado:
 | :---: | :---: | :--- | :---: |
 |  | **HABILITAÇÃO JURÍDICA** |  |  |
 | **Obrigação** | **Descrição** | **Validade** | **Observação** |
-| Inscrição no CNPJ .   | Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas \(CNPJ\) atualizado ou revalidado | Até o término do mandato |  |
+| Inscrição no CNPJ .   | Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas \(CNPJ\) atualizado ou revalidado. | Até o término do mandato |  |
 | Comprovação de endereço da sede | Comprovante de endereço da sede emitido em até 90 dias da data de apresentação do documento ou outro documento que comprove o efetivo funcionamento no endereço constante da inscrição no CNPJ. | Até o término do mandato  |  |
 | Lei de criação do fundo municipal  | Cópia da lei de criação do fundo municipal. | Até o término do mandato  | Após o encerramento da validade do documento, o parceiro/convenente deverá apresentar as alterações realizadas na lei ou uma declaração de que não ocorreram alterações no período. |
 |  Ato de criação do conselho municipal | Cópia do ato de criação do conselho municipal.  | Até o término do mandato | Após o encerramento da validade do documento, o parceiro/convenente deverá apresentar as alterações realizadas no ato ou uma declaração de que não ocorreram alterações no período. |

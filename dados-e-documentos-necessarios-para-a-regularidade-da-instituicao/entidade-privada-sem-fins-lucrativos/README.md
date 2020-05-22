@@ -212,7 +212,7 @@ Para acessar o anexo por completo, acesse ao link disponibilizado:
       <td style="text-align:center">Regularidade perante o Fundo de Garantia do Tempo de Servi&#xE7;o - FGTS
         .</td>
       <td style="text-align:center">Certificado de Regularidade de Situa&#xE7;&#xE3;o do Fundo de Garantia
-        do Tempo de Servi&#xE7;o (FGTS)</td>
+        do Tempo de Servi&#xE7;o (FGTS).</td>
       <td style="text-align:left">Validade da certid&#xE3;o</td>
       <td style="text-align:center"></td>
     </tr>
@@ -279,11 +279,12 @@ Para acessar o anexo por completo, acesse ao link disponibilizado:
         recebidos anteriormente</td>
       <td style="text-align:center">Aus&#xEA;ncia de registro de inadimpl&#xEA;ncia no Sistema de Administra&#xE7;&#xE3;o
         Financeira do Estado de Minas Gerais (SIAFI) ou no(s) sistema(s) que vier(em)
-        substituir a funcionalidade de bloqueio na tabela de credores</td>
-      <td style="text-align:left">Momento da consulta</td>
-      <td style="text-align:center">At&#xE9; a cria&#xE7;&#xE3;o ou em caso de falha na integra&#xE7;&#xE3;o,
-        dever&#xE1; ser verificada a obriga&#xE7;&#xE3;o no momento da celebra&#xE7;&#xE3;o
-        e libera&#xE7;&#xE3;o de recursos pelo &#xF3;rg&#xE3;o ou entidade estadual.</td>
+        substituir a funcionalidade de bloqueio na tabela de credores.</td>
+      <td
+      style="text-align:left">Momento da consulta</td>
+        <td style="text-align:center">At&#xE9; a cria&#xE7;&#xE3;o ou em caso de falha na integra&#xE7;&#xE3;o,
+          dever&#xE1; ser verificada a obriga&#xE7;&#xE3;o no momento da celebra&#xE7;&#xE3;o
+          e libera&#xE7;&#xE3;o de recursos pelo &#xF3;rg&#xE3;o ou entidade estadual.</td>
     </tr>
     <tr>
       <td style="text-align:center">Aus&#xEA;ncia de inadimpl&#xEA;ncia em rela&#xE7;&#xE3;o &#xE0; administra&#xE7;&#xE3;o

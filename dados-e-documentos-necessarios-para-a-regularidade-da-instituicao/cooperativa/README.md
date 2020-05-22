@@ -98,7 +98,7 @@ Para acessar o anexo por completo, acesse ao link disponibilizado:
     <tr>
       <td style="text-align:center">Ata da elei&#xE7;&#xE3;o do representante legal.</td>
       <td style="text-align:center">C&#xF3;pia da ata de elei&#xE7;&#xE3;o dos dirigentes dos Conselhos e
-        Diretorias da entidade</td>
+        Diretorias da entidade.</td>
       <td style="text-align:left">At&#xE9; o t&#xE9;rmino do mandato.</td>
       <td style="text-align:center"></td>
     </tr>

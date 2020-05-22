@@ -325,7 +325,7 @@ Para acessar o anexo por completo, acesse ao link disponibilizado:
       <td style="text-align:center">Certid&#xE3;o de regularidade junto ao Tribunal de Contas competente para
         o julgamento das contas de seu representante legal ou declara&#xE7;&#xE3;o
         de observ&#xE2;ncia das normas de fiscaliza&#xE7;&#xE3;o do Tribunal de
-        Contas, assinado pelo representante legal</td>
+        Contas, assinado pelo representante legal.</td>
       <td style="text-align:center">Validade da certid&#xE3;o</td>
       <td style="text-align:center"></td>
     </tr>
