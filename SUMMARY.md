@@ -13,6 +13,7 @@
   * [🔑 Senha de Representante Legal Cadastrado no Sistema Anterior](cadastro/criacao-de-senha-de-representante-legal.md)
 * [🔐 Recuperação de Senha](recuperacao-de-senha.md)
 * [🔄 Solicitar Atualização de Dados e Documentos do Parceiro/Convenente](atualizacao-de-dados.md)
+* [✅ Quem pode ser convenente/parceiro?](quem-pode-ser-convenente-parceiro.md)
 * [🗂 Dados e Documentos Necessários para a Regularidade da Instituição](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/README.md)
   * [● Município](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/municipios/README.md)
     * [Município](http://www.portalcagec.mg.gov.br/wp-content/uploads/arquivos/legislacao/resolu%C3%A7%C3%B5es/05/anexos/Anexo-1-Municipio.pdf)
@@ -42,5 +43,4 @@
     * [Fundo Municipal de Assistência Social](http://www.portalcagec.mg.gov.br/wp-content/uploads/arquivos/legislacao/resolu%C3%A7%C3%B5es/05/anexos/Anexo-1-Fundo-Municipal-de-Assist%C3%AAncia-Social.pdf)
   * [● Serviço Social Autônomo](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/servico-social-autonomo/README.md)
     * [Serviço Social Autônomo](http://www.portalcagec.mg.gov.br/wp-content/uploads/arquivos/legislacao/resolu%C3%A7%C3%B5es/05/anexos/Anexo-1-Servi%C3%A7o-Social-Aut%C3%B4nomo.pdf)
-* [✅ Quem pode ser convenente/parceiro?](quem-pode-ser-convenente-parceiro.md)
 
