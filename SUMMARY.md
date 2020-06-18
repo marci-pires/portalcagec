@@ -12,6 +12,7 @@
   * [⌨️ Cadastro de Novo Usuário e Senha](cadastro/cadastro-de-usuarios-e-senha.md)
   * [🔑 Senha de Representante Legal Cadastrado no Sistema Anterior](cadastro/criacao-de-senha-de-representante-legal.md)
 * [🔐 Recuperação de Senha](recuperacao-de-senha.md)
+* [🖌 Alteração de Nome de Usuário](alteracao-de-nome-de-usuario.md)
 * [🔄 Solicitar Atualização de Dados e Documentos do Parceiro/Convenente](atualizacao-de-dados.md)
 * [✅ Quem pode ser convenente/parceiro?](quem-pode-ser-convenente-parceiro.md)
 * [🗂 Dados e Documentos Necessários para a Regularidade da Instituição](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/README.md)
