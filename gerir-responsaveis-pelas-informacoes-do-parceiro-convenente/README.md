@@ -1,4 +1,4 @@
-# Gerir Responsáveis pelas Informações do Parceiro / Convenente
+# Gerir Responsáveis pelas Informações
 
 O Representante Legal pode fazer a gestão das pessoas \(usuários do sistema CAGEC\) que podem atuar em nome do Parceiro / Convenente.
 
@@ -39,7 +39,7 @@ O representante legal pode adicionar novos responsáveis, clicando em “**VINCU
 
 ![](../.gitbook/assets/image%20%2850%29.png)
 
-5.3 – Vinculando novo Responsável pela Informação 
+5.3 – Vinculando novo Responsável pela Informação [-&gt;](https://manual.portalcagec.mg.gov.br/gerir-responsaveis-pelas-informacoes-do-parceiro-convenente/vincular-um-responsavel-pela-informacao)
 
-5.4 – Desvinculando um Responsável pela Informação
+5.4 – Desvinculando um Responsável pela Informação [-&gt;](https://manual.portalcagec.mg.gov.br/gerir-responsaveis-pelas-informacoes-do-parceiro-convenente/desvincular-um-responsavel-pela-informacao)
 
