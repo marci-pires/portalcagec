@@ -32,5 +32,6 @@
   * [● Fundo Municipal de Saúde](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/fundo-municipal-de-saude.md)
   * [● Fundo Municipal de Assistência Social](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/fundo-municipal-de-assistencia-social.md)
   * [● Serviço Social Autônomo](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/servico-social-autonomo.md)
-* [Gerir Responsáveis pelas Informações do Parceiro / Convenente](gerir-responsaveis-pelas-informacoes-do-parceiro-convenente.md)
+* [Gerir Responsáveis pelas Informações do Parceiro / Convenente](gerir-responsaveis-pelas-informacoes-do-parceiro-convenente/README.md)
+  * [Desvincular um Responsável pela Informação](gerir-responsaveis-pelas-informacoes-do-parceiro-convenente/desvincular-um-responsavel-pela-informacao.md)
 
