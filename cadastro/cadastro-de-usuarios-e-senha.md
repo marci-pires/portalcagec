@@ -26,17 +26,22 @@
 
 ![](../.gitbook/assets/image%20%2818%29%20%281%29.png)
 
-**6º PASSO:** Na página inicial passe o mouse em **ENTRAR** e clique em **Usuário Existente**
+**6º PASSO:** Faça login e crie uma senha de acordo com as regras expostas no quadro azul.   
+⚠️ No campo **" \*Confirmação da senha atual** copie novamente a senha recebida no e-mail
+
+![](../.gitbook/assets/captura-de-tela-2020-10-18-a-s-17.02.46.png)
+
+**7º PASSO:** Na página inicial passe o mouse em **ENTRAR** e clique em **Usuário Existente**
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
-**7º PASSO:** Preencher os campos "CPF' e "Senha"
+**8º PASSO:** Preencher os campos "CPF' e "Senha"
 
 
 
 ![](../.gitbook/assets/image%20%2833%29.png)
 
-**8º PASSO:** clique no ícone ![](../.gitbook/assets/image%20%2819%29.png) no canto superior esquerdo da página e no canto superior esquerdo da página para acessar   **"SOLICITAÇÕES e CONSULTAS"**
+**9º PASSO:** clique no ícone ![](../.gitbook/assets/image%20%2819%29.png) no canto superior esquerdo da página e no canto superior esquerdo da página para acessar   **"SOLICITAÇÕES e CONSULTAS"**
 
 ![](../.gitbook/assets/image%20%2833%29%20%281%29.png)
 
