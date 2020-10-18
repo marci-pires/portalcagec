@@ -55,7 +55,7 @@
 
 ![](../.gitbook/assets/captura-de-tela-2020-10-18-a-s-18.24.04.png)
 
-**12º passo :** Após clicar em “Solicitar Inscrição Parceiro/Convenente”, aparecerá uma tela para digitar o CNPJ da Pessoa Jurídica a ser cadastrada no Cagec.
+**12º PASSO :** Após clicar em “Solicitar Inscrição Parceiro/Convenente”, aparecerá uma tela para digitar o CNPJ da Pessoa Jurídica a ser cadastrada no Cagec.
 
 ![](../.gitbook/assets/captura-de-tela-2020-10-18-a-s-18.30.25.png)
 
@@ -80,13 +80,13 @@ Todas abas, daqui em diante, possuem um botão de salvar no fim delas e esta ati
 
 ![](../.gitbook/assets/captura-de-tela-2020-10-18-a-s-18.44.21.png)
 
-#### 17º passo
+#### 17º PASSO:
 
 Ao fim da página de Cadastro do Representante Legal, anexe os documentos solicitados e clique em salvar.
 
 ![](../.gitbook/assets/captura-de-tela-2020-10-18-a-s-18.50.40.png)
 
-#### 18º PASSO
+#### 18º PASSO:
 
 No campo Quadro de Dirigentes clique em adicionar, preencha os dados do dirigente e clique em salvar 
 
@@ -106,7 +106,7 @@ A principal aba de qualquer solicitação, “Documentação”, é onde o usuá
 
 ![](../.gitbook/assets/image%20%2827%29.png)
 
-#### 21º PASSO
+#### 21º PASSO:
 
 Para que as assinaturas digitais sejam válidas, é necessário que pelo menos os documentos “Autorretrato \(Selfie\) segurando o documento de identificação”, “Documento de Identificação do Responsável pelas informações” e “Termo de Declaração de Concordância e Veracidade **assinados pelo Representante Legal** ” sejam anexados ao sistema. Todos eles encontram-se no agrupamento “Credenciamento do Representante Legal”.
 
@@ -150,7 +150,7 @@ O usuário, então, irá escolher o arquivo a ser anexado e inserirá, na maior 
 
 ![](../.gitbook/assets/image%20%2811%29.png)
 
-#### 22º PASSO
+#### 22º PASSO:
 
 Além da anexação, alguns documentos são gerados pelo próprio sistema e só necessitam de assinatura do representante legal. Para esta assinatura, o usuário deve ir também na coluna de ações, escolher a opção “Assinar Digitalmente”, e neste momento de estabilização do sistema recomendamos a opção “Assinar com usuário/senha”.
 
@@ -162,7 +162,7 @@ Além da anexação, alguns documentos são gerados pelo próprio sistema e só 
 
 ![](../.gitbook/assets/image%20%2846%29.png)
 
-#### 23º PASSO
+#### 23º PASSO:
 
 O documento “Termo de Declaração e Concordância e Veracidade” possui uma especificidade em relação aos demais documentos. Para que o documento tenha sua anexação permitida, ele exige primeiro o download no sistema para posterior anexação.
 
@@ -178,7 +178,7 @@ Por fim, após a anexação e a assinatura dos documentos o parceiro/convenente 
 
 ![](../.gitbook/assets/image%20%2812%29.png)
 
-#### 24º PASSO
+#### 24º PASSO:
 
 Assim, encerra o fluxo do parceiro/convenente se encerra nesta etapa. O convenente pode verificar o andamento de sua solicitação através do menu “Solicitações”, “Acompanhar Solicitação”. Também pelo mesmo menu é possível que o parceiro/convenente edite solicitações que não tenham sido finalizadas, bem como que faça correções solicitadas pelos analistas da equipe gestora do Cagec.
 
