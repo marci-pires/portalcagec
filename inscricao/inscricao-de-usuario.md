@@ -36,5 +36,10 @@ Esta guia visa demonstrar como é o processo de inscrição simples. É a fase i
 
 ![](../.gitbook/assets/image%20%2833%29.png)
 
-\*\*\*\*
+**8º PASSO:** Cadastrar uma senha de sua preferência de acordo com as regras expostas no quadro azul:  
+
+
+![](../.gitbook/assets/incricao-cadastrar-senha.png)
+
+No tópico **"\* Confirmação de senha atual"**  preencha com a senha encaminhada via e-mail. Em seguida 
 
