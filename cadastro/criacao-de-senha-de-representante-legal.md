@@ -20,13 +20,17 @@ Faça login e crie uma senha de acordo com as regras expostas no quadro azul.
 
 ![](../.gitbook/assets/captura-de-tela-2020-10-18-a-s-17.02.46.png)
 
+**3º PASSO:** o formulário e clique em **SALVAR**
+
+![](../.gitbook/assets/captura-de-tela-2020-10-18-a-s-17.35.21.png)
 
 
-**3º passo:** passe o mouse no campo **ENTRAR** e depois clique em **USUÁRIO EXISTENTE**
+
+**4º passo:** passe o mouse no campo **ENTRAR** e depois clique em **USUÁRIO EXISTENTE**
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
-**4º passo:** Preencher os campos **CPF** e **Senha**
+**5º passo:** Preencher os campos **CPF** e **Senha**
 
 ![](../.gitbook/assets/image%20%2833%29.png)
 
@@ -34,9 +38,11 @@ Faça login e crie uma senha de acordo com as regras expostas no quadro azul.
 O campo **CPF** deve ser preenchido com o CPF do **REPRESENTANTE LEGAL** e a **SENHA** preenchida de acordo com as instruções enviadas por e-mail.
 {% endhint %}
 
-5**º passo:** clique no ícone ![](../.gitbook/assets/image%20%285%29%20%282%29.png) e no canto superior esquerdo da página para acessar   **"SOLICITAÇÕES e CONSULTAS"**
+**6º passo:** clique no ícone ![](../.gitbook/assets/image%20%285%29%20%282%29.png) e no canto superior esquerdo da página para acessar   **"SOLICITAÇÕES e CONSULTAS"**
 
 ![](../.gitbook/assets/image%20%284%29%20%283%29.png)
 
 ![](../.gitbook/assets/image%20%288%29%20%281%29.png)
+
+
 
