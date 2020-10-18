@@ -46,17 +46,9 @@
 
 ![](../.gitbook/assets/image%20%2833%29.png)
 
-**10º PASSO:** clique no ícone ![](../.gitbook/assets/image%20%2819%29.png) no canto superior esquerdo da página e no canto superior esquerdo da página para acessar   **"SOLICITAÇÕES e CONSULTAS"**
-
-![](../.gitbook/assets/image%20%2833%29%20%281%29.png)
-
-**11º PASSO:** Após clicar no ícone aparecerá a tela ilustrada logo abaixo. Nesta tela, clique no ícone de “Solicitações” e em seguida selecione a opção “Solicitar Alteração de Dados e Documentos do Parceiro/Convenente”.
-
-![](../.gitbook/assets/solicitar-atualizacao-de-dados-e-documentos-do-parceiro.png)
-
 #### 12º passo 
 
-Após clicar em “Solicitar Alterações de Dados do Parceiro/Convenente”, aparecerá uma tela para buscar o convenente/parceiro que terá a atualização de dados realizada.
+Após logar clique em em “Solicitar Alterações de Dados do Parceiro/Convenente”, aparecerá uma tela para buscar o convenente/parceiro que terá a atualização de dados realizada.
 
 ![](../.gitbook/assets/image%20%284%29%20%281%29.png)
 
