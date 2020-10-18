@@ -31,17 +31,21 @@
 
 ![](../.gitbook/assets/captura-de-tela-2020-10-18-a-s-17.02.46.png)
 
-**7º PASSO:** Na página inicial passe o mouse em **ENTRAR** e clique em **Usuário Existente**
+**7º PASSO:** o formulário e clique em **SALVAR**
+
+![](../.gitbook/assets/captura-de-tela-2020-10-18-a-s-17.35.21.png)
+
+**8º PASSO:** Na página inicial passe o mouse em **ENTRAR** e clique em **Usuário Existente**
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
-**8º PASSO:** Preencher os campos "CPF' e "Senha"
+**9º PASSO:** Preencher os campos "CPF' e "Senha"
 
 
 
 ![](../.gitbook/assets/image%20%2833%29.png)
 
-**9º PASSO:** clique no ícone ![](../.gitbook/assets/image%20%2819%29.png) no canto superior esquerdo da página e no canto superior esquerdo da página para acessar   **"SOLICITAÇÕES e CONSULTAS"**
+**10º PASSO:** clique no ícone ![](../.gitbook/assets/image%20%2819%29.png) no canto superior esquerdo da página e no canto superior esquerdo da página para acessar   **"SOLICITAÇÕES e CONSULTAS"**
 
 ![](../.gitbook/assets/image%20%2833%29%20%281%29.png)
 
