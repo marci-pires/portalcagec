@@ -33,41 +33,45 @@
 
 ![](../.gitbook/assets/captura-de-tela-2020-10-18-a-s-17.02.46.png)
 
-**7º PASSO:** Na página inicial passe o mouse em **ENTRAR** e clique em **Usuário Existente**
+**7º PASSO:** o formulário e clique em **SALVAR**
+
+![](../.gitbook/assets/captura-de-tela-2020-10-18-a-s-17.35.21.png)
+
+**8º PASSO:** Na página inicial passe o mouse em **ENTRAR** e clique em **Usuário Existente**
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
-**8º PASSO:** Preencher os campos "CPF' e "Senha"
+**9º PASSO:** Preencher os campos "CPF' e "Senha"
 
 
 
 ![](../.gitbook/assets/image%20%2833%29.png)
 
-**9º PASSO:** clique no ícone ![](../.gitbook/assets/image%20%2819%29.png) no canto superior esquerdo da página e no canto superior esquerdo da página para acessar   **"SOLICITAÇÕES e CONSULTAS"**
+**10º PASSO:** clique no ícone ![](../.gitbook/assets/image%20%2819%29.png) no canto superior esquerdo da página e no canto superior esquerdo da página para acessar   **"SOLICITAÇÕES e CONSULTAS"**
 
 ![](../.gitbook/assets/image%20%2833%29%20%281%29.png)
 
-**10º PASSO:** Após clicar no ícone aparecerá a tela ilustrada logo abaixo. Nesta tela, clique no ícone de “Solicitações” e em seguida selecione a opção “Solicitar Alteração de Dados e Documentos do Parceiro/Convenente”.
+**11º PASSO:** Após clicar no ícone aparecerá a tela ilustrada logo abaixo. Nesta tela, clique no ícone de “Solicitações” e em seguida selecione a opção “Solicitar Alteração de Dados e Documentos do Parceiro/Convenente”.
 
 ![](../.gitbook/assets/solicitar-atualizacao-de-dados-e-documentos-do-parceiro.png)
 
-#### 11º passo 
+#### 12º passo 
 
 Após clicar em “Solicitar Alterações de Dados do Parceiro/Convenente”, aparecerá uma tela para buscar o convenente/parceiro que terá a atualização de dados realizada.
 
 ![](../.gitbook/assets/image%20%284%29%20%281%29.png)
 
-#### 12º passo 
+#### 13º passo 
 
 Após a busca, deverá ser criada a solicitação de alteração de dados por meio do pincel destacado.
 
 ![](../.gitbook/assets/image%20%2853%29.png)
 
-**13º passo** A partir deste ponto, o sistema exibe a possibilidade de alteração de todos os dados do convenente. A primeira tela somente exibe os dados da solicitação.
+**14º passo** A partir deste ponto, o sistema exibe a possibilidade de alteração de todos os dados do convenente. A primeira tela somente exibe os dados da solicitação.
 
 ![](../.gitbook/assets/image%20%2857%29.png)
 
-#### 14º passo
+#### 15º passo
 
 A aba “Dados do Parceiro/Convenente” permite a alteração dos dados de pessoa jurídica do CNPJ em mudança. Caso algum dado seja alterado nesta tela, o parceiro/convenente deverá necessariamente inserir documentações comprobatórias desta mudança na aba de “Documentação”, até a aprovação do cadastro, todos os documentos que necessitarem de assinatura, deverão ser assinados pelo Representante legal.   
 Todas abas, daqui em diante, possuem um botão de salvar no fim delas e esta atividade é **indispensável** para que os dados sejam registrados no sistema.
@@ -78,13 +82,13 @@ Todas abas, daqui em diante, possuem um botão de salvar no fim delas e esta ati
 
 No campo " DATA DE ABERTURA", o dado a ser preenchido é a data de abertura  do Convenente/Parceiro de acordo com a Inscrição no CNPJ.
 
-#### 15º passo
+#### 16º passo
 
 A aba “Quadro de Dirigentes” permite alterações dos dados do representante legal e do quadro de dirigentes, sendo este último de preenchimento necessário apenas para o gênero “Organizações da Sociedade Civil”, gênero “Fundos Municipais” e gênero “Serviços Sociais Autônomos”. As edições e exclusões são feitas pelos ícones de “pincel” e “lixeira”, respectivamente, dentro da coluna ações.
 
 ![](../.gitbook/assets/image%20%2835%29.png)
 
-#### 16º passo
+#### 17º passo
 
 Na aba “Áreas de Atuação”, o sistema solicita o cadastro dos CNAEs do parceiro/convenente, bem como a seleção de áreas de atuação. Para parceiro/convenente do gênero “Entes Federados ou Pessoas Jurídicas a ele Vinculadas” o sistema já insere todas as áreas de atuação automaticamente. Os CNAEs podem ser buscados através da inscrição do CNPJ, sendo que para o gênero “Entes Federados ou Pessoas Jurídicas a ele Vinculadas” o número é sempre 8411-6/00, cuja descrição é “Administração pública em geral”.
 
@@ -92,13 +96,13 @@ Na aba “Áreas de Atuação”, o sistema solicita o cadastro dos CNAEs do par
 
 ![](../.gitbook/assets/image%20%2851%29.png)
 
-#### 17º passo
+#### 18º passo
 
 A principal aba de qualquer solicitação, “Documentação”, é onde o usuário faz o upload dos documentos e declara sua autenticidade. Esta é a principal novidade do novo Cagec, pois com a declaração pelo representante legal da autenticidade de tudo que foi anexado ao processo, o que dispensa as autenticações em cartório cobradas anteriormente. Ressaltamos apenas que o registro dos estatutos e normas de constituição continuam sendo obrigatórios, mas a autenticação dos documentos em si não. No caso de alteração de dados, o campo inicia-se vazio e toda a documentação do tipo de convenente pode ser incluída no processo.
 
 ![](../.gitbook/assets/image%20%2827%29.png)
 
-#### 18º passo
+#### 19º passo
 
 Para que as assinaturas digitais sejam válidas, é necessário que pelo menos os documentos “Autorretrato \(Selfie\) segurando o documento de identificação”, “Documento de Identificação do Responsável pelas informações” e “Termo de Declaração de Concordância e Veracidade **assinados pelo Representante Legal** ” sejam anexados ao sistema. Todos eles encontram-se no agrupamento “Credenciamento do Representante Legal”.
 
@@ -142,7 +146,7 @@ O usuário, então, irá escolher o arquivo a ser anexado e inserirá, na maior 
 
 ![](../.gitbook/assets/image%20%2811%29.png)
 
-#### 19º passo 
+#### 20º passo 
 
 Além da anexação, alguns documentos são gerados pelo próprio sistema e só necessitam de assinatura do representante legal. Para esta assinatura, o usuário deve ir também na coluna de ações, escolher a opção “Assinar Digitalmente”, e neste momento de estabilização do sistema recomendamos a opção “Assinar com usuário/senha”.
 
@@ -154,7 +158,7 @@ Além da anexação, alguns documentos são gerados pelo próprio sistema e só 
 
 ![](../.gitbook/assets/image%20%2846%29.png)
 
-#### 20º passo
+#### 21º passo
 
 O documento “Termo de Declaração e Concordância e Veracidade” possui uma especificidade em relação aos demais documentos. Para que o documento tenha sua anexação permitida, ele exige primeiro o download no sistema para posterior anexação.
 
@@ -170,7 +174,7 @@ Por fim, após a anexação e a assinatura dos documentos o parceiro/convenente 
 
 ![](../.gitbook/assets/image%20%2812%29.png)
 
-#### 21º passo
+#### 22º passo
 
 Assim, encerra o fluxo do parceiro/convenente se encerra nesta etapa. O convenente pode verificar o andamento de sua solicitação através do menu “Solicitações”, “Acompanhar Solicitação”. Também pelo mesmo menu é possível que o parceiro/convenente edite solicitações que não tenham sido finalizadas, bem como que faça correções solicitadas pelos analistas da equipe gestora do Cagec.
 
