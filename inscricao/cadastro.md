@@ -1,3 +1,9 @@
+---
+description: >-
+  O responsável pelas informações é um usuário que compõe o quadro de dirigentes
+  em qualquer função, EXCETO a função de Representante Legal
+---
+
 # ⌨️ Inscrição de Responsável pelas informações
 
 Para cadastrar um usuário na modalidade de **RESPONSÁVEL PELAS INFORMAÇÕES** siga os seguintes passos: 

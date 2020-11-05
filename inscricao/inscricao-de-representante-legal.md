@@ -1,4 +1,14 @@
+---
+description: O REPRESENTANTE LEGAL é o dirigente máximo da instituição.
+---
+
 # ⌨️ Inscrição de Representante Legal
+
+{% hint style="warning" %}
+**APENAS O REPRESENTANTE LEGAL PODE ASSINAR OS DOCUMENTOS DIGITALMENTE.**  
+  
+ ⚠ **A assinatura dos documentos SÓ PODERÁ SER EFETUADA através do usuário e senha do Representante Legal.**
+{% endhint %}
 
 Para cadastrar usuário na modalidade de **REPRESENTANTE LEGAL** siga os seguintes passos: 
 
