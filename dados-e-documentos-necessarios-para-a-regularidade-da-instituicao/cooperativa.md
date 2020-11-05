@@ -4,7 +4,7 @@ description: >-
   no Anexo da Resolução Conjunta SEGOV/CGE 006/2020
 ---
 
-# ● Sociedade Cooperativa
+# ● Cooperativa
 
 Para acessar o anexo por completo, acesse ao link disponibilizado:
 
