@@ -6,7 +6,7 @@ Há três modalidades de acesso:
 
 {% tabs %}
 {% tab title="Representante Legal" %}
-O **Representante legal** é a pessoa física que detém poder de administração , gestão ou controle do Convenente/Parceiro, habilitado assinar, com a Administração Pública do Poder Executivo do Estado de Minas Gerais, convênio de saída, termo de colaboração, termo de fomento, acordo de cooperação, contrato de gestão com serviços sociais autônomos e, conforme previsão na legislação específica, outros instrumentos jurídicos congêneres envolvendo a transferências de recursos oriundos do orçamento fiscal, ainda que delegue essa competência a terceiros.
+O **Representante legal** é a pessoa física que detém poder de administração , gestão ou controle do Convenente/Parceiro, habilitado assinar, com a Administração Pública do Poder Executivo do Estado de Minas Gerais, convênio de saída, termo de colaboração, termo de fomento, acordo de cooperação, contrato de gestão com serviços sociais autônomos e, conforme previsão na legislação específica, outros instrumentos jurídicos congêneres envolvendo a transferências de recursos oriundos do orçamento fiscal, ainda que delegue essa competência a terceiros.  
 {% endtab %}
 
 {% tab title="Responsável Pelas Informações" %}
