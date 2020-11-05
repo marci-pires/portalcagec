@@ -1,6 +1,6 @@
 # ⌨️ Inscrição de Responsável pelas informações
 
-## Para cadastrar usuário na modalidade de Responsável pelas Informações siga os seguintes passos: 
+Para cadastrar um usuário na modalidade de **RESPONSÁVEL PELAS INFORMAÇÕES** siga os seguintes passos: 
 
 **1º PASSO:** Acesse o portal Cagec, passe o mouse em "Entrar" e clique em "Novo Usuário" 
 

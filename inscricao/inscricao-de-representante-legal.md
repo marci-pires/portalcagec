@@ -1,6 +1,6 @@
 # ⌨️ Inscrição de Representante Legal
 
-## Para cadastrar usuário na modalidade de Representante Legal siga os seguintes passos: 
+Para cadastrar usuário na modalidade de **REPRESENTANTE LEGAL** siga os seguintes passos: 
 
 **1º PASSO:** Acesse o portal Cagec, passe o mouse em "Entrar" e clique em "Novo Usuário" 
 
