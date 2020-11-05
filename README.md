@@ -10,7 +10,7 @@ _\*\*\*\*_[https://manual.portalcagec.mg.gov.br/inscricao/inscricao-de-represent
 
 
 
-## **Prezados usuários, Esse manual foi desenvolvido com o objetivo de explicar o passo-a-passo para a utilização do sistema CAGEC.**
+## **PREZADOS USUÁRIOS, Esse manual foi desenvolvido com o objetivo de explicar o passo-a-passo para a utilização do sistema CAGEC.**
 
 ### 🖥 ⌨️🖱navegação nesse manual _online_ é bem simples! Do lado esquerdo, temos o sumário e do direito algumas opções para navegar entre os subtítulos da página.
 
