@@ -12,7 +12,7 @@
 * [🖥  Cadastro](criacao-de-senha-de-representante-legal.md)
 * [📥 Como fazer upload ou anexar documentos](como-fazer-upload-ou-anexar-documentos.md)
 * [🔐 Recuperação de Senha](recuperacao-de-senha.md)
-* [🖌 Alteração de Nome de Usuário](alteracao-de-nome-de-usuario.md)
+* [🖌 Alteração de Nome e e-mail de Usuário](alteracao-de-nome-de-usuario.md)
 * [🗄Consultar Pastas Digitais](consultar-pastas-digitais.md)
 * [🔍 Emissão de CRC e Exportação de PDF ou Planilha](emissao-de-crc-e-exportacao-de-pdf-ou-planilha.md)
 * [🔄 Solicitar Atualização de Dados e Documentos do Parceiro/Convenente](atualizacao-de-dados.md)

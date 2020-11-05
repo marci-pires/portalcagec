@@ -1,4 +1,4 @@
-# 🖌 Alteração de Nome de Usuário
+# 🖌 Alteração de Nome e e-mail de Usuário
 
 ### ⚠️  Este guia é destinado APENAS para CORRIGIR o nome do usuário no sistema. PARA ALTERAR O REPRESENTANTE LEGAL é necessário criar um novo usuário para o novo Representante Legal. 
 
