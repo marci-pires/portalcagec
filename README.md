@@ -1,7 +1,16 @@
 # 📖 MANUAL DE UTILIZAÇÃO CAGEC
 
-Prezados usuários,  
-Esse manual foi desenvolvido com o objetivo de explicar o passo-a-passo para a utilização do sistema CAGEC.
+## ⚠️  ATENÇÃO ⚠️
+
+### **Quando há alteração do Representante Legal NÃO é possível utilizar o login do Representante Legal anterior. É necessário criar um novo usuário para o NOVO REPRESENTANTE LEGAL e anexar toda a documentação solicitada.**
+
+#### _**SIGA O PASSO A PASSO A SEGUIR:**_ 
+
+_\*\*\*\*_[https://manual.portalcagec.mg.gov.br/inscricao/inscricao-de-representante-legal](https://manual.portalcagec.mg.gov.br/inscricao/inscricao-de-representante-legal)
+
+
+
+## **Prezados usuários, Esse manual foi desenvolvido com o objetivo de explicar o passo-a-passo para a utilização do sistema CAGEC.**
 
 ### 🖥 ⌨️🖱navegação nesse manual _online_ é bem simples! Do lado esquerdo, temos o sumário e do direito algumas opções para navegar entre os subtítulos da página.
 
