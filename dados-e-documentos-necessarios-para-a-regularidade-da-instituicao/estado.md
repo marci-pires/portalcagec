@@ -4,7 +4,7 @@ description: >-
   no Anexo da Resolução Conjunta SEGOV/CGE 006/2020
 ---
 
-# ● Estado
+# ● Estado federado ou Distrito Federal
 
 Para acessar o anexo por completo, acesse ao link disponibilizado:
 

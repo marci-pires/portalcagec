@@ -23,7 +23,7 @@
   * [● Município](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/municipios.md)
   * [● Entidade Pública Municipal](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/entidade-publica-municipal.md)
   * [● Entidade Pública Estadual](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/entidade-publica-estadual.md)
-  * [● Estado](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/estado.md)
+  * [● Estado federado ou Distrito Federal](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/estado.md)
   * [● União](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/uniao.md)
   * [● Entidade Pública Federal, Entidade de Classe ou OAB](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/entidade-publica-federal-entidade-de-classe-ou-oab.md)
   * [● Empresa Estatal não dependente, outros Poderes ou órgãos referidos no art. 20 da LCF nº 101/2020](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/empresa-estatal-nao-dependente-outros-poderes-ou-orgaos-referidos-no-art.-20-da-lcf-no-101-2020.md)
