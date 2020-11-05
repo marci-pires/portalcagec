@@ -1,6 +1,6 @@
 # 🖥 Inscrição
 
-🖥  A **Inscrição** é o ato de incluir no Portal Cagec um Convenente/Parceiro com a finalidade de Celebração e liberação de recursos de Convênio de Saída, Termo de Colaboração, Termo de Fomento, Acordo de Cooperação, Contrato de Gestão com Serviços Sociais Autônomos e, conforme previsão na legislação específica, outros instrumentos jurídicos congêneres envolvendo a transferência de recursos financeiros de dotações consignadas no orçamento fiscal Poder Executivo do Estado de Minas Gerais.
+🖥  A **Inscrição** é o ato de incluir no Portal Cagec um Convenente/Parceiro com a finalidade de Celebração e liberação de recursos de Convênio de Saída, Termo de Colaboração, Termo de Fomento, Acordo de Cooperação, Contrato de Gestão com Serviços Sociais Autônomos e, conforme previsão na legislação específica, outros instrumentos jurídicos congêneres envolvendo a transferência de recursos financeiros de dotações consignadas no orçamento fiscal Poder Executivo do Estado de Minas Gerais. **Em síntese É O CADASTRO DE UM NOVO USUÁRIO.**
 
 ## **🤔 Qual a diferença entre Cadastro e Inscrição?**
 
@@ -15,7 +15,7 @@ Todos os demais usuários realizam o processo de inscrição, que é o fornecime
 
 3º A qualquer pessoa física que queira se cadastrar no sistema. 
 
- **⚠️ NÃO É NECESSÁRIO SER USUÁRIO** para Consultar um Parceiro/Convenente através da emissão de CRC ou para verificar a autenticidade de declaração.  
+##  **⚠️ NÃO É NECESSÁRIO SER USUÁRIO** para Consultar um Parceiro/Convenente através da emissão de CRC ou para verificar a autenticidade de declaração.  
 
 \*\*\*\*
 
