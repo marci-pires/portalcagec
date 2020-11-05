@@ -8,11 +8,9 @@
 
 _\*\*\*\*_[https://manual.portalcagec.mg.gov.br/inscricao/inscricao-de-representante-legal](https://manual.portalcagec.mg.gov.br/inscricao/inscricao-de-representante-legal)
 
-
-
 ## **PREZADOS USUÁRIOS, Esse manual foi desenvolvido com o objetivo de explicar o passo-a-passo para a utilização do sistema CAGEC.**
 
-### 🖥 ⌨️🖱navegação nesse manual _online_ é bem simples! Do lado esquerdo, temos o sumário e do direito algumas opções para navegar entre os subtítulos da página.
+### 🖥 ⌨️🖱 A navegação nesse manual _online_ é bem simples! Do lado esquerdo, temos o _sumário_ e do direito _opções para navegar entre os subtítulos da página._
 
 Para facilitar a compreensão, no decorrer do texto, vocês encontrarão caixas como as abaixo. Elas vão servir para ajudar a compreensão e chamar atenção para pontos importantes! 🤓 
 
