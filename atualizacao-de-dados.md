@@ -142,7 +142,7 @@ Após a impressão e assinatura pelo representante legal, o documento deve ser a
 
 ![](.gitbook/assets/image%20%2863%29.png)
 
-Por fim, após a anexação e a assinatura dos documentos o parceiro/convenente deverá clicar no botão finalizar solicitação, onde será gerado o número da mesma e o processo é encaminhado para avaliação da equipe gestora do Cagec.
+Por fim, após a anexação e a assinatura dos documentos o parceiro/convenente deverá clicar no botão **ENCAMINHAR SOLICITAÇÃO PARA ANÁLISE,** onde será gerado o número da mesma e o processo é encaminhado para avaliação da equipe gestora do Cagec.
 
 ![](.gitbook/assets/image%20%2844%29.png)
 
