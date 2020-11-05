@@ -1,6 +1,8 @@
 # ⌨️ Inscrição de usuário
 
-Esta guia visa demonstrar como é o processo de inscrição simples. É a fase inicial para Representante Legal, Responsável pela informação e qualquer pessoa física que desejar ser pode ser um usuário do sistema.
+### Este guia visa demonstrar como é o processo de inscrição. 
+
+**A** **INSCRIÇÃO** é a fase inicial para um Representante Legal, Responsável pela informação ou qualquer pessoa física que desejar ser um usuário do sistema.
 
 **1º PASSO:** Acesse o portal Cagec, passe o mouse em "Entrar" e clique em "Novo Usuário" 
 
