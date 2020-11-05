@@ -26,7 +26,7 @@
   * [● Estado](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/estado.md)
   * [● União](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/uniao.md)
   * [● Entidade Pública Federal, Entidade de Classe ou OAB](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/entidade-publica-federal-entidade-de-classe-ou-oab.md)
-  * [Empresa Estatal não dependente, outros Poderes ou órgãos referidos no art. 20 da LCF nº 101/2020](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/empresa-estatal-nao-dependente-outros-poderes-ou-orgaos-referidos-no-art.-20-da-lcf-no-101-2020.md)
+  * [● Empresa Estatal não dependente, outros Poderes ou órgãos referidos no art. 20 da LCF nº 101/2020](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/empresa-estatal-nao-dependente-outros-poderes-ou-orgaos-referidos-no-art.-20-da-lcf-no-101-2020.md)
   * [● Consórcio Público de Direito Público](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/consorcio-publico-de-direito-publico.md)
   * [● Consórcio Público de Direito Privado](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/consorcio-publico-de-direito-privado.md)
   * [● Entidade Privada Sem fins Lucrativos](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/entidade-privada-sem-fins-lucrativos.md)
