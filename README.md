@@ -2,7 +2,7 @@
 
 ## ⚠️  ATENÇÃO ⚠️
 
-### **Quando há alteração do Representante Legal NÃO é possível utilizar o login do Representante Legal anterior. É necessário criar um novo usuário para o NOVO REPRESENTANTE LEGAL e anexar toda a documentação solicitada.**
+### **Quando há alteração do Representante Legal NÃO é possível utilizar o login do** _**Representante Legal anterior.**_ **É necessário criar um novo usuário para o NOVO REPRESENTANTE LEGAL e anexar toda a documentação solicitada.**
 
 #### _**SIGA O PASSO A PASSO A SEGUIR:**_ 
 
