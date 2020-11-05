@@ -30,7 +30,7 @@
   * [● Consórcio Público de Direito Público](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/consorcio-publico-de-direito-publico.md)
   * [● Consórcio Público de Direito Privado](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/consorcio-publico-de-direito-privado.md)
   * [● Entidade Privada Sem fins Lucrativos](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/entidade-privada-sem-fins-lucrativos.md)
-  * [● Cooperativa](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/cooperativa.md)
+  * [● Sociedade Cooperativa](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/cooperativa.md)
   * [● Organização Religiosa](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/organizacao-religiosa.md)
   * [● Fundo Municipal de Saúde](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/fundo-municipal-de-saude.md)
   * [● Fundo Municipal de Assistência Social](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/fundo-municipal-de-assistencia-social.md)
