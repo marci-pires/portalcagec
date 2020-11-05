@@ -1,5 +1,12 @@
 # 🖌 Alteração de Nome de Usuário
 
+### ⚠️  Este guia é destinado APENAS para CORRIGIR o nome do usuário no sistema. PARA ALTERAR O REPRESENTANTE LEGAL é necessário criar um novo usuário para o novo Representante Legal. 
+
+{% hint style="success" %}
+**Em caso de alteração do Representante Legal, siga o passo a passo a seguir:**  
+[https://manual.portalcagec.mg.gov.br/inscricao/inscricao-de-representante-legal](https://manual.portalcagec.mg.gov.br/inscricao/inscricao-de-representante-legal)
+{% endhint %}
+
 **1º PASSO:** Para alterar o nome do usuário acesse o [Portal do Cagec](WWW.PORTALCAGEC.MG.GOV.BR), faça login e clique nos campos de acordo com as informações ilustrados a seguir:  
   
 Após logar no sistema vá até a aba "CONSULTAS"
