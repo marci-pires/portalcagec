@@ -8,10 +8,6 @@ description: >-
 
 Para acessar o anexo por completo, acesse ao link disponibilizado:
 
-{% hint style="info" %}
-[http://www.portalcagec.mg.gov.br/wp-content/uploads/arquivos/legislacao/resolu%C3%A7%C3%B5es/05/anexos/Anexo-1-Uni%C3%A3o.pdf](http://www.portalcagec.mg.gov.br/wp-content/uploads/arquivos/legislacao/resolu%C3%A7%C3%B5es/05/anexos/Anexo-1-Uni%C3%A3o.pdf)
-{% endhint %}
-
 |  | \*\*\*\* |  |  |
 | :---: | :---: | :--- | :---: |
 |  | **HABILITAÇÃO JURÍDICA** |  |  |
