@@ -4,7 +4,7 @@ description: >-
   em qualquer função, EXCETO a função de Representante Legal
 ---
 
-# ⌨️ Inscrição de Responsável pelas informações
+# ⌨️ Cadastro de Responsável pelas informações
 
 Para cadastrar um usuário na modalidade de **RESPONSÁVEL PELAS INFORMAÇÕES** siga os seguintes passos: 
 

@@ -1,4 +1,4 @@
-# ⌨️ Inscrição de usuário
+# ⌨️ Cadastro de usuário
 
 ### Este guia visa demonstrar como é o processo de inscrição. 
 

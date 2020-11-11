@@ -2,7 +2,7 @@
 description: O REPRESENTANTE LEGAL é o dirigente máximo da instituição.
 ---
 
-# ⌨️ Inscrição de Representante Legal
+# ⌨️ Cadastro de Representante Legal
 
 {% hint style="warning" %}
 **APENAS O REPRESENTANTE LEGAL PODE ASSINAR OS DOCUMENTOS DIGITALMENTE.**  
