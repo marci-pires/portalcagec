@@ -4,7 +4,7 @@
 
 **1º PASSO:** Acesse o Portal Cagec, clique em **SUPORTE,** em seguida em **ALTERAR E-MAIL** 
 
-![](../.gitbook/assets/captura-de-tela-2020-11-11-a-s-11.35.58.png)
+![](../.gitbook/assets/captura-de-tela-2020-11-11-a-s-11.35.58%20%281%29.png)
 
 **2º PASSO:** Preencha todos os campos do formulário
 
