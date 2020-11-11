@@ -10,6 +10,7 @@
   * [⌨️ Cadastro de usuário](inscricao/inscricao-de-usuario.md)
   * [⌨️ Cadastro de Responsável pelas informações](inscricao/cadastro.md)
   * [⌨️ Cadastro de Representante Legal](inscricao/inscricao-de-representante-legal.md)
+  * [🖥 Inscrição de Parceiro Convenente](inscricao/inscricao-de-parceiro-convenente.md)
 * [📥 Como fazer upload ou anexar documentos](como-fazer-upload-ou-anexar-documentos.md)
 * [🔐 Recuperação de Senha](recuperacao-de-senha.md)
 * [🖌 Alteração de Nome e e-mail de Usuário](alteracao-de-nome-de-usuario.md)
