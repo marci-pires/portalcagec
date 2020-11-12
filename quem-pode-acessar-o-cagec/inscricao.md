@@ -29,6 +29,10 @@ Todos os demais usuários realizam o processo de inscrição, que é o fornecime
 
 ##   Para se cadastrar como REPRESENTANTE LEGAL clique no link a seguir: 
 
+{% page-ref page="inscricao.md" %}
+
+
+
 
 
 \*\*\*\*
