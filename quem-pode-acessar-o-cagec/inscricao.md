@@ -11,7 +11,7 @@
 
 ## **🤔 O que é a Inscrição de Parceiro/Convenente?**
 
-
+🖥  A inscrição do Parceiro/Convenente é o ato de inscrever uma Pessoa Jurídica no Portal Cagec  vinculado a mais de uma pessoa jurídica. O Cagec não permite que um mesmo CPF possua mais de um cadastro, entretanto, você pode ser vinculado a várias Pessoas Jurídicas diferentes, seja como Representante Legal ou Responsável pelas Informações.
 
 \*\*\*\*
 
