@@ -27,17 +27,35 @@ Todos os demais usuários realizam o processo de inscrição, que é o fornecime
 ## **⚠️ NÃO É NECESSÁRIO SER USUÁRIO** para Consultar um Parceiro/Convenente através da emissão de CRC ou para verificar a autenticidade de declaração. 
 {% endhint %}
 
-##   Para se cadastrar como REPRESENTANTE LEGAL clique no link a seguir: 
+{% hint style="success" %}
+## Para se cadastrar como REPRESENTANTE LEGAL siga o passo a passo a seguir: 
 
-{% page-ref page="inscricao.md" %}
+#### [https://manual.portalcagec.mg.gov.br/quem-pode-acessar-o-cagec/inscricao-de-representante-legal](https://manual.portalcagec.mg.gov.br/quem-pode-acessar-o-cagec/inscricao-de-representante-legal)
+{% endhint %}
 
+{% hint style="success" %}
+## Para se cadastrar como RESPONSÁVEL PELAS INFORMAÇÕES siga o passo a passo a seguir: 
 
+#### [https://manual.portalcagec.mg.gov.br/quem-pode-acessar-o-cagec/cadastro](https://manual.portalcagec.mg.gov.br/quem-pode-acessar-o-cagec/cadastro)
+{% endhint %}
 
+{% hint style="success" %}
+## Para se cadastrar como USUÁRIO siga o passo a passo a seguir: 
 
+[**https://manual.portalcagec.mg.gov.br/quem-pode-acessar-o-cagec/inscricao-de-usu**ario](https://manual.portalcagec.mg.gov.br/quem-pode-acessar-o-cagec/inscricao-de-usuario)
+{% endhint %}
 
-\*\*\*\*
+{% hint style="success" %}
+## Para VALIDAÇÃO DE CADASTRO  siga o passo a passo a seguir: 
 
+[**https://manual.portalcagec.mg.gov.br/quem-pode-acessar-o-cagec/criacao-de-senha-de-representante-legal**](https://manual.portalcagec.mg.gov.br/quem-pode-acessar-o-cagec/criacao-de-senha-de-representante-legal)\*\*\*\*
+{% endhint %}
 
+{% hint style="success" %}
+## Para INSCRIÇÃO DE PARCEIRO/CONVENENTE  siga o passo a passo a seguir: 
+
+[**https://manual.portalcagec.mg.gov.br/quem-pode-acessar-o-cagec/inscricao-de-parceiro-convenente**](https://manual.portalcagec.mg.gov.br/quem-pode-acessar-o-cagec/inscricao-de-parceiro-convenente)\*\*\*\*
+{% endhint %}
 
 
 
