@@ -2,7 +2,7 @@
 description: A inscrição é o ato de CADASTRAR UM NOVO USUÁRIO.
 ---
 
-# 🖥 Cadastro
+# 🖥 Diferença entre Cadastro, Validação de Cadastro e Inscrição do Parceiro/Convenente
 
 🖥  A **Inscrição** é o ato de incluir no Portal Cagec um Convenente/Parceiro com a finalidade de Celebração e liberação de recursos de Convênio de Saída, Termo de Colaboração, Termo de Fomento, Acordo de Cooperação, Contrato de Gestão com Serviços Sociais Autônomos e, conforme previsão na legislação específica, outros instrumentos jurídicos congêneres envolvendo a transferência de recursos financeiros de dotações consignadas no orçamento fiscal Poder Executivo do Estado de Minas Gerais. 
 

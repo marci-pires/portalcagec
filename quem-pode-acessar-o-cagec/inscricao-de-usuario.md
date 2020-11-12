@@ -1,8 +1,8 @@
 # ⌨️ Cadastro de usuário
 
-### Este guia visa demonstrar como é o processo de inscrição. 
+### Este guia visa demonstrar como é o processo de Cadastro. 
 
-**A** **INSCRIÇÃO** é a fase inicial para um Representante Legal, Responsável pela informação ou qualquer pessoa física que desejar ser um usuário do sistema.
+**O CADASTRO** é a fase inicial para um Representante Legal, Responsável pela informação ou qualquer pessoa física que desejar ser um usuário do sistema.
 
 **1º PASSO:** Acesse o portal Cagec, passe o mouse em "Entrar" e clique em "Novo Usuário" 
 

@@ -5,7 +5,7 @@
   * [🖥 🔄 💻 Integração entre Sistemas Estaduais e Federais](o-que-e-o-cagec/integracao-entre-sistemas-estaduais-e-federais.md)
   * [⚖️ Fundamentação Jurídica](o-que-e-o-cagec/fundamentacao-juridica.md)
 * [🤔 Como acessar o CAGEC?](quem-pode-acessar-o-cagec/README.md)
-  * [🖥 Cadastro](quem-pode-acessar-o-cagec/inscricao.md)
+  * [🖥 Diferença entre Cadastro, Validação de Cadastro e Inscrição do Parceiro/Convenente](quem-pode-acessar-o-cagec/inscricao.md)
   * [⌨️ Cadastro de Representante Legal](quem-pode-acessar-o-cagec/inscricao-de-representante-legal.md)
   * [⌨️ Cadastro de Responsável pelas informações](quem-pode-acessar-o-cagec/cadastro.md)
   * [⌨️ Cadastro de usuário](quem-pode-acessar-o-cagec/inscricao-de-usuario.md)
