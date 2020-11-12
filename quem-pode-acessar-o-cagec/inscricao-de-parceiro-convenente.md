@@ -1,6 +1,6 @@
 # 🖥 Inscrição de Parceiro Convenente
 
-#### Esta funcionalidade é destinada a qualquer usuário do Portal Cagec vinculado a mais de uma pessoa jurídica. O Cagec não permite que um mesmo CPF possua mais de um cadastro, entretanto, você pode ser vinculado a várias Pessoas Jurídicas diferentes, seja como Representante Legal ou Responsável pelas Informações. 
+### **Esta funcionalidade é destinada a qualquer usuário do Portal Cagec vinculado a mais de uma pessoa jurídica. O Cagec não permite que um mesmo CPF possua mais de um cadastro, entretanto, você pode ser vinculado a várias Pessoas Jurídicas diferentes, seja como Representante Legal ou Responsável pelas Informações.** 
 
 ### Para Inscrever um parceiro/convenente siga o passo a passo a seguir:
 
