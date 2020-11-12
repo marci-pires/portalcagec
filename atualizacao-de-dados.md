@@ -1,4 +1,4 @@
-# 🔄 Solicitar Atualização de Dados e Documentos do Parceiro/Convenente
+# 🔄 Solicitar Atualização de DADOS do Parceiro/Convenente
 
 Este fluxo possibilita que o usuário altere dados do parceiro/convenente, bem como de seu representante legal e do quadro dirigente. Ele também permite que sejam entregues quaisquer documentos que estejam pendentes de regularização, sendo esta última possibilidade não obrigatória.
 
