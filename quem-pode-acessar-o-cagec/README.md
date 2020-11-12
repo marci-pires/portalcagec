@@ -23,8 +23,6 @@ Para tornar-se o Representante Legal ou o Responsável pelas informações de al
 {% endtab %}
 {% endtabs %}
 
-
-
 {% hint style="success" %}
 ## Para se cadastrar como REPRESENTANTE LEGAL siga o passo a passo a seguir: 
 
