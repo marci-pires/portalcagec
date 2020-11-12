@@ -25,6 +25,36 @@ Para tornar-se o Representante Legal ou o Responsável pelas informações de al
 
 
 
+{% hint style="success" %}
+## Para se cadastrar como REPRESENTANTE LEGAL siga o passo a passo a seguir: 
+
+#### [https://manual.portalcagec.mg.gov.br/quem-pode-acessar-o-cagec/inscricao-de-representante-legal](https://manual.portalcagec.mg.gov.br/quem-pode-acessar-o-cagec/inscricao-de-representante-legal)
+{% endhint %}
+
+{% hint style="success" %}
+## Para se cadastrar como RESPONSÁVEL PELAS INFORMAÇÕES siga o passo a passo a seguir: 
+
+#### [https://manual.portalcagec.mg.gov.br/quem-pode-acessar-o-cagec/cadastro](https://manual.portalcagec.mg.gov.br/quem-pode-acessar-o-cagec/cadastro)
+{% endhint %}
+
+{% hint style="success" %}
+## Para se cadastrar como USUÁRIO siga o passo a passo a seguir: 
+
+[**https://manual.portalcagec.mg.gov.br/quem-pode-acessar-o-cagec/inscricao-de-usu**ario](https://manual.portalcagec.mg.gov.br/quem-pode-acessar-o-cagec/inscricao-de-usuario)
+{% endhint %}
+
+{% hint style="success" %}
+## Para VALIDAÇÃO DE CADASTRO  siga o passo a passo a seguir: 
+
+[**https://manual.portalcagec.mg.gov.br/quem-pode-acessar-o-cagec/criacao-de-senha-de-representante-legal**](https://manual.portalcagec.mg.gov.br/quem-pode-acessar-o-cagec/criacao-de-senha-de-representante-legal)\*\*\*\*
+{% endhint %}
+
+{% hint style="success" %}
+## Para INSCRIÇÃO DE PARCEIRO/CONVENENTE  siga o passo a passo a seguir: 
+
+[**https://manual.portalcagec.mg.gov.br/quem-pode-acessar-o-cagec/inscricao-de-parceiro-convenente**](https://manual.portalcagec.mg.gov.br/quem-pode-acessar-o-cagec/inscricao-de-parceiro-convenente)
+{% endhint %}
+
  
 
 
