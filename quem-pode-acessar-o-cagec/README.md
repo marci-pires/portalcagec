@@ -1,4 +1,4 @@
-# 🤔 Quem pode acessar o CAGEC?
+# 🤔 Como acessar o CAGEC?
 
 O acesso ao Portal de Convenentes é criado por pessoa física e sua aprovação inicial na modalidade de usuário é condicionada ao fornecimento de CPF, nome de usuário, e-mail principal e telefone.
 

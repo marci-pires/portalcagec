@@ -27,7 +27,9 @@ Todos os demais usuários realizam o processo de inscrição, que é o fornecime
 ## **⚠️ NÃO É NECESSÁRIO SER USUÁRIO** para Consultar um Parceiro/Convenente através da emissão de CRC ou para verificar a autenticidade de declaração. 
 {% endhint %}
 
-##   
+##   Para se cadastrar como REPRESENTANTE LEGAL clique no link a seguir: 
+
+
 
 \*\*\*\*
 
