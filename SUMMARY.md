@@ -20,6 +20,7 @@
 * [🔄 Solicitar Inscrição de Parceiro/Convenente](inscricao-de-parceiro-convenente.md)
 * [🔄 Solicitar Atualização de DADOS do Parceiro/Convenente](atualizacao-de-dados.md)
 * [🔄 Solicitar Atualização de DOCUMENTOS do Parceiro/Convenente](solicitar-atualizacao-de-documentos-do-parceiro-convenente.md)
+* [🔏 Documentos pendentes de assinatura digital](documentos-pendentes-de-assinatura-digital.md)
 * [✅ Quem pode ser convenente/parceiro?](quem-pode-ser-convenente-parceiro.md)
 * [🗂 Dados e Documentos Necessários para a Regularidade da Instituição](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/README.md)
   * [● Município](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/municipios.md)
