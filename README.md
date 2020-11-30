@@ -4,9 +4,9 @@
 
 ### **Quando há alteração do Representante Legal NÃO é possível utilizar o login do** _**Representante Legal anterior.**_ **É necessário criar um novo usuário para o NOVO REPRESENTANTE LEGAL e anexar toda a documentação solicitada.**
 
-#### _**SIGA O PASSO A PASSO A SEGUIR:**_ 
+### _**SIGA O PASSO A PASSO A SEGUIR:**_ 
 
-_\*\*\*\*_[https://manual.portalcagec.mg.gov.br/inscricao/inscricao-de-representante-legal](https://manual.portalcagec.mg.gov.br/inscricao/inscricao-de-representante-legal)
+### _\*\*\*\*_[https://manual.portalcagec.mg.gov.br/inscricao/inscricao-de-representante-legal](https://manual.portalcagec.mg.gov.br/inscricao/inscricao-de-representante-legal)
 
 ## **PREZADOS USUÁRIOS, Esse manual foi desenvolvido com o objetivo de explicar o passo-a-passo para a utilização do sistema CAGEC.**
 
