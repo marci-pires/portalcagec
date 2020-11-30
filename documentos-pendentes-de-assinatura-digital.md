@@ -15,6 +15,16 @@ Após realizado, o cabeçalho da tela exibirá esta barra.
   
 **3º passo:**  
 Clique no ícone de menu ![](.gitbook/assets/image%20%2847%29.png)   
-4**º passo:**  
-Após clicar no ícone aparecerá a tela ilustrada logo abaixo. Nesta tela, clique no ícone de “Solicitações” e em seguida selecione a opção “Solicitar Alteração de Dados e Documentos do Parceiro/Convenente”.
+**4º passo:**  
+Após clicar no ícone aparecerá a tela ilustrada logo abaixo. Nesta tela, clique no ícone de “Solicitações” e em seguida selecione a opção “Documento\(s\) Pendente\(s\) de Assinatura Digital”.
+
+![](.gitbook/assets/documentos-pendentes-de-assinatura-digital.png)
+
+**5º passo:**  
+
+
+
+
+  
+
 
