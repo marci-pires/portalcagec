@@ -1,12 +1,12 @@
 ---
 description: >-
   Sabe quando há alteração de Representante Legal da Pessoa Jurídica? Aqui você
-  aprenderá como atualizar esta informação no Cadastro do Cagec!
+  aprenderá como atualizar esta informação no Cagec!
 ---
 
-# 📝 Como alterar REPRSENTANTE LEGAL?
+# 📝 Como alterar REPRESENTANTE LEGAL?
 
- O Mandado de um Representante Legal acabou e outra pessoa vai assumir a Responsabilidade Legal pela Pessoa Jurídica? Acompanhe o passo de como alterar esses dados no Portal Cagec!  
+ O Mandato de um Representante Legal acabou e outra pessoa vai assumir a Responsabilidade Legal pela Pessoa Jurídica? Acompanhe o passo de como alterar esses dados no Portal Cagec!  
 🤓 Pra deixar bem claro...  Os mandatos, via de regra são por tempo determinado, quando um mandato vence, outra pessoa assume a direção da Pessoa Jurídica, isso vale para Municípios, OSCs, Consórcios...
 
 ### **O que fazer quando o o mandato vence e o Representante Legal é reeleito?**
