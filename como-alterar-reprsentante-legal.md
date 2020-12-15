@@ -7,7 +7,7 @@ description: >-
 # 📝 Como alterar REPRSENTANTE LEGAL?
 
  O Mandado de um Representante Legal acabou e outra pessoa vai assumir a Responsabilidade Legal pela Pessoa Jurídica? Acompanhe o passo de como alterar esses dados no Portal Cagec!  
-🤓 Pra deixar bem claro, vamos explicar com um exemplo:  Os mandatos, via de regra são por tempo determinado, quando um mandato vence, outra pessoa assume a direção da Pessoa Jurídica, isso vale para Municípios, OSCs, Consórcios...
+🤓 Pra deixar bem claro...  Os mandatos, via de regra são por tempo determinado, quando um mandato vence, outra pessoa assume a direção da Pessoa Jurídica, isso vale para Municípios, OSCs, Consórcios...
 
 ### **O que fazer quando o o mandato vence e o Representante Legal é reeleito?**
 
