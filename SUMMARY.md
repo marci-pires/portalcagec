@@ -11,6 +11,7 @@
   * [⌨️ Cadastro de Responsável pelas informações](quem-pode-acessar-o-cagec/cadastro.md)
   * [⌨️  Validação de Cadastro](quem-pode-acessar-o-cagec/criacao-de-senha-de-representante-legal.md)
 * [📥 Como fazer upload ou anexar documentos](como-fazer-upload-ou-anexar-documentos.md)
+* [📝 Como alterar REPRSENTANTE LEGAL?](como-alterar-reprsentante-legal.md)
 * [🧩 Solicitar vinculação como Representante Legal de um Parceiro/Convenente](solicitar-vinculacao-como-representante-legal-de-um-parceiro-convenente.md)
 * [🔐 Recuperação de Senha](recuperacao-de-senha/README.md)
   * [🖌 Troca de e-mail principal do usuário](recuperacao-de-senha/troca-de-e-mail-principal-do-usuario.md)
