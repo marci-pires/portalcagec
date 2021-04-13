@@ -13,7 +13,7 @@
 * [📥 Como fazer upload ou anexar documentos](como-fazer-upload-ou-anexar-documentos.md)
 * [📝 Como alterar REPRESENTANTE LEGAL?](como-alterar-reprsentante-legal.md)
 * [🧩 Solicitar vinculação como Representante Legal de um Parceiro/Convenente](solicitar-vinculacao-como-representante-legal-de-um-parceiro-convenente.md)
-* [🔐 Recuperação de Senha](recuperacao-de-senha.md)
+* [🔐 Esqueceu a Senha? Usuário bloqueado?](recuperacao-de-senha.md)
 * [🖌 Alteração de Nome e e-mail de Usuário](alteracao-de-nome-de-usuario.md)
 * [🖌 Troca de e-mail principal do usuário](troca-de-e-mail-principal-do-usuario.md)
 * [🗄Consultar Pastas Digitais](consultar-pastas-digitais.md)

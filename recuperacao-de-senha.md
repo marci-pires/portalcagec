@@ -1,8 +1,10 @@
-# 🔐 Recuperação de Senha
+# 🔐 Esqueceu a Senha? Usuário bloqueado?
 
 Acesse o [Portal do Cagec](WWW.PORTALCAGEC.MG.GOV.BR), e clique nos campos de acordo com as informações ilustrados a seguir:
 
-**1º PASSO:**Passe o mouse no item **ENTRAR** e clique em **Esqueceu sua senha?**
+**1º PASSO:**Passe o mouse no item **ENTRAR** e clique em **Esqueceu sua senha? ou Usuário Bloqueado?**
+
+\*\*\*\*
 
 ![](.gitbook/assets/image%20%2818%29.png)
 
