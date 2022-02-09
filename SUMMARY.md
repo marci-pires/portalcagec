@@ -27,8 +27,8 @@
   * [● Município](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/municipios.md)
   * [● Entidade Pública Municipal](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/entidade-publica-municipal.md)
   * [● Estado federado ou Distrito Federal](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/estado.md)
-  * [● União](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/uniao/README.md)
-    * [● Entidade Pública Estadual](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/uniao/entidade-publica-estadual.md)
+  * [● União](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/uniao.md)
+  * [● Entidade Pública Estadual](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/entidade-publica-estadual.md)
   * [● Entidade Pública Federal, Entidade de Classe ou OAB](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/entidade-publica-federal-entidade-de-classe-ou-oab.md)
   * [● Consórcio Público de Direito Público](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/consorcio-publico-de-direito-publico.md)
   * [● Consórcio Público de Direito Privado](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/consorcio-publico-de-direito-privado.md)
@@ -42,4 +42,3 @@
 * [Gerir Responsáveis pelas Informações](gerir-responsaveis-pelas-informacoes-do-parceiro-convenente/README.md)
   * [Vincular um novo Responsável pela Informação](gerir-responsaveis-pelas-informacoes-do-parceiro-convenente/vincular-um-responsavel-pela-informacao.md)
   * [Desvincular um Responsável pela Informação](gerir-responsaveis-pelas-informacoes-do-parceiro-convenente/desvincular-um-responsavel-pela-informacao.md)
-

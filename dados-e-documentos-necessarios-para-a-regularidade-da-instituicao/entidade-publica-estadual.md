@@ -4,7 +4,5 @@ description: >-
   no Anexo da Resolução Conjunta SEGOV/CGE 001/2021
 ---
 
-# ● Sociedade Cooperativa
-
-
+# ● Entidade Pública Estadual
 
