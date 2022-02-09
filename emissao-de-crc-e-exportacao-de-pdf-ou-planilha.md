@@ -17,7 +17,7 @@ Acesse o [Portal Cagec ](http://www.portalcagec.mg.gov.br)
 ![](.gitbook/assets/2.png)
 
 **3º PASSO:** \
-Informe um ou dois campos (filtros) de pesquisa e clique no botão ![](.gitbook/assets/pesquisar.png)&#x20;
+Informe um ou dois campos (filtros) de pesquisa e clique no botão ![](.gitbook/assets/PESQUISAR.png)&#x20;
 
 ![](.gitbook/assets/4.png)
 
@@ -28,6 +28,6 @@ Informe um ou dois campos (filtros) de pesquisa e clique no botão ![](.gitbook/
 
 **GERAÇÃO DE RELATÓRIO POR EXPORTAÇÃO DE PDF OU PLANILHA** \
 \
-Para pesquisar a regularidade de um ou mais cadastros de uma única vez, preencha os dados da busca e clique no botão :  ![](.gitbook/assets/exportar-pdf-ou-planilha.png) .\
+Para pesquisar a regularidade de um ou mais cadastros de uma única vez, preencha os dados da busca e clique no botão :  ![](<.gitbook/assets/EXPORTAR PDF OU PLANILHA.png>) .\
 ⚠️ **ESTA FUNCIONALIDADE NÃO EMITE O CRC** completo do Parceiro/ Convenente pesquisado, sua função é mostrar os principais dados do cadastrado e sua situação de Regularidade ou Irregularidade.\
 Através desta funcionalidade é possível a emissão de PDF ou planilha de vários cadastros em um só documento que será gerado.

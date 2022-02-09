@@ -1,45 +1,44 @@
 # Gerir Responsáveis pelas Informações
 
-O Representante Legal pode fazer a gestão das pessoas \(usuários do sistema CAGEC\) que podem atuar em nome do Parceiro / Convenente.
+O Representante Legal pode fazer a gestão das pessoas (usuários do sistema CAGEC) que podem atuar em nome do Parceiro / Convenente.
 
-**1º PASSO:**  
+**1º PASSO:**\
 Acessar o Portal CAGEC e clicar em “ENTRAR”
 
-![](../.gitbook/assets/image%20%2852%29.png)
+![](<../.gitbook/assets/image (80).png>)
 
-**2º PASSO:**  
+**2º PASSO:**\
 Realizar o login no sistema CAGEC
 
-![](../.gitbook/assets/image%20%2859%29.png)
+![](<../.gitbook/assets/image (82).png>)
 
-**3º PASSO:**  
-Acessar o menu do sistema e escolhe a opção “**Responsáveis Vinculados**” &gt;&gt; “**Alterar/Incluir Responsável pela Informação**”
+**3º PASSO:**\
+Acessar o menu do sistema e escolhe a opção “**Responsáveis Vinculados**” >> “**Alterar/Incluir Responsável pela Informação**”
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](<../.gitbook/assets/image (83).png>)
 
-![](../.gitbook/assets/image%20%2848%29.png)
+![](<../.gitbook/assets/image (84).png>)
 
-Perceba que, automaticamente, o sistema listará o\(s\) Parceiro/Convenente\(s\) em que o usuário logado é o representante legal.
+Perceba que, automaticamente, o sistema listará o(s) Parceiro/Convenente(s) em que o usuário logado é o representante legal.
 
-**4º PASSO:**  
-Para o Parceiro/Convenente desejado, clique em \[ **v** \] “Clique para visualizar o\(s\) responsável pela informação”.
+**4º PASSO:**\
+Para o Parceiro/Convenente desejado, clique em \[ **v** ] “Clique para visualizar o(s) responsável pela informação”.
 
-![](../.gitbook/assets/image%20%2845%29.png)
+![](<../.gitbook/assets/image (85).png>)
 
-Perceba que, automaticamente, o sistema listará o\(s\) Responsável\(is\) pela Informação vinculado Parceiro/Convenente selecionado.
+Perceba que, automaticamente, o sistema listará o(s) Responsável(is) pela Informação vinculado Parceiro/Convenente selecionado.
 
-**5º PASSO:**  
-Gestão dos Responsáveis Para cada Responsável pela Informação, o representante legal pode:   
-                5.1 – **VISUALIZAR** os dados básicos do Responsável pela Informação \(caso esteja vinculado\)   
-                5.2 – **DESVINCULAR** o Responsável pela Informação \(caso esteja vinculado\) e/ou   
-                                 **VINCULAR** o Responsável pela Informação novamente \(caso esteja desvinculado\)
+**5º PASSO:**\
+Gestão dos Responsáveis Para cada Responsável pela Informação, o representante legal pode: \
+&#x20;               5.1 – **VISUALIZAR** os dados básicos do Responsável pela Informação (caso esteja vinculado) \
+&#x20;               5.2 – **DESVINCULAR** o Responsável pela Informação (caso esteja vinculado) e/ou \
+&#x20;                                **VINCULAR** o Responsável pela Informação novamente (caso esteja desvinculado)
 
-Ou,   
-O representante legal pode adicionar novos responsáveis, clicando em “**VINCULAR NOVO RESPONSÁVEL PELAS INFORMAÇÕES**” \(5.3\).
+Ou, \
+O representante legal pode adicionar novos responsáveis, clicando em “**VINCULAR NOVO RESPONSÁVEL PELAS INFORMAÇÕES**” (5.3).
 
-![](../.gitbook/assets/image%20%2850%29.png)
+![](<../.gitbook/assets/image (86).png>)
 
-5.3 – Vinculando novo Responsável pela Informação [-&gt;](https://manual.portalcagec.mg.gov.br/gerir-responsaveis-pelas-informacoes-do-parceiro-convenente/vincular-um-responsavel-pela-informacao)
+5.3 – Vinculando novo Responsável pela Informação [->](https://manual.portalcagec.mg.gov.br/gerir-responsaveis-pelas-informacoes-do-parceiro-convenente/vincular-um-responsavel-pela-informacao)
 
-5.4 – Desvinculando um Responsável pela Informação [-&gt;](https://manual.portalcagec.mg.gov.br/gerir-responsaveis-pelas-informacoes-do-parceiro-convenente/desvincular-um-responsavel-pela-informacao)
-
+5.4 – Desvinculando um Responsável pela Informação [->](https://manual.portalcagec.mg.gov.br/gerir-responsaveis-pelas-informacoes-do-parceiro-convenente/desvincular-um-responsavel-pela-informacao)

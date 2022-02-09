@@ -5,7 +5,7 @@
 
 **2º PASSO:** Clique em Solicitar vinculação como Representante Legal de um Parceiro/Convenente:
 
-![](<.gitbook/assets/01-alterar-representnte-legal- (1).png>)
+![](<.gitbook/assets/01 alterar representnte Legal  (2).png>)
 
 **3º PASSO:**  Insira o CNPJ da Pessoa Jurídica representada pelo usuário e clique em PESQUISAR:
 
