@@ -26,7 +26,7 @@
 * [🗂 Dados e Documentos Necessários para a Regularidade da Instituição](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/README.md)
   * [● Município](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/municipios.md)
   * [● Entidade Pública Municipal](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/entidade-publica-municipal.md)
-  * [● Estado federado ou Distrito Federal](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/estado.md)
+  * [● Estado Federado ou Distrito Federal](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/estado.md)
   * [● União](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/uniao.md)
   * [● Entidade Pública Estadual](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/entidade-publica-estadual.md)
   * [● Entidade Pública Federal, Entidade de Classe ou OAB](dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/entidade-publica-federal-entidade-de-classe-ou-oab.md)
