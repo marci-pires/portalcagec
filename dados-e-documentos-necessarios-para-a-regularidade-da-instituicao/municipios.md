@@ -62,4 +62,7 @@ Para acessar o anexo por completo, acesse ao [link](https://www.portalcagec.mg.g
 
 ## **AUTENTICIDADE DE DOCUMENTO**
 
-****
+| Obrigação                                               | Descrição                                                                                    | Validade      | Observação                                                                |
+| ------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------- |
+| Declaração de autenticidade dos documentos apresentados | Declaração de autenticidade dos documentos apresentados com anexação assinada pelo prefeito. | Não se aplica | Este documento não influencia a situação do convenente/parceiro no Cagec. |
+|                                                         |                                                                                              |               |                                                                           |
