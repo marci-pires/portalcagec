@@ -10,6 +10,7 @@
   * [⌨️ Cadastro de Representante Legal](quem-pode-acessar-o-cagec/inscricao-de-representante-legal.md)
   * [⌨️ Cadastro de Responsável pelas informações](quem-pode-acessar-o-cagec/cadastro.md)
   * [⌨️  Validação de Cadastro](quem-pode-acessar-o-cagec/criacao-de-senha-de-representante-legal.md)
+  * [⌨️ Acesso com GOV.BR](quem-pode-acessar-o-cagec/acesso-com-gov.br.md)
 * [📥 Como fazer upload ou anexar documentos?](como-fazer-upload-ou-anexar-documentos.md)
 * [📝 Como alterar REPRESENTANTE LEGAL?](como-alterar-reprsentante-legal.md)
 * [🧩 Solicitar vinculação como Representante Legal de um Parceiro/Convenente](solicitar-vinculacao-como-representante-legal-de-um-parceiro-convenente.md)
