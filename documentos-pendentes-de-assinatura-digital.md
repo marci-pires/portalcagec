@@ -14,7 +14,7 @@ Como assinar documentos que estão pendentes de assinatura digital?\
 
 ****\
 **3º passo:**\
-****Clique no ícone de menu ![](<.gitbook/assets/image (40).png>) \
+****Clique no ícone de menu <img src=".gitbook/assets/image (40).png" alt="" data-size="original"> \
 **4º passo:**\
 ****Após clicar no ícone aparecerá a tela ilustrada logo abaixo. Nesta tela, clique no ícone de “Solicitações” e em seguida selecione a opção “Documento(s) Pendente(s) de Assinatura Digital”.
 

@@ -4,7 +4,7 @@ Este fluxo possibilita que o usuário altere dados do parceiro/convenente, bem c
 
 #### 1º passo
 
-Para solicitar atualização de dados é necessário acessar o portal Cagec no endereço eletrônico: [**http://www.portalcagec.mg.gov.br/**](http://www.portalcagec.mg.gov.br) e adotar as instruções ilustradas a seguir:
+Para solicitar atualização de dados é necessário acessar o portal Cagec no endereço eletrônico: [**http://www.portalcagec.mg.gov.br/**](http://www.portalcagec.mg.gov.br/) e adotar as instruções ilustradas a seguir:
 
 ![](<.gitbook/assets/image (38).png>)
 
@@ -20,7 +20,7 @@ Após realizado, o cabeçalho da tela exibirá esta barra.
 
 #### 3º passo
 
-Clique no ícone de menu ![](<.gitbook/assets/image (40).png>)&#x20;
+Clique no ícone de menu <img src=".gitbook/assets/image (40).png" alt="" data-size="original">&#x20;
 
 #### 4º passo
 

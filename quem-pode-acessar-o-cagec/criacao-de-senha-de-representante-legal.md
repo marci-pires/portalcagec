@@ -51,9 +51,9 @@ Faça login e crie uma senha de acordo com as regras expostas no quadro azul. \
 O campo **CPF** deve ser preenchido com o CPF do **REPRESENTANTE LEGAL** e a **SENHA** preenchida de acordo com as instruções enviadas por e-mail.
 {% endhint %}
 
-**6º passo:** clique no ícone ![](<../.gitbook/assets/image (2).png>) e no canto superior esquerdo da página para acessar   **"SOLICITAÇÕES e CONSULTAS"**
+**6º passo:** clique no ícone <img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="original"> e no canto superior esquerdo da página para acessar   **"SOLICITAÇÕES e CONSULTAS"**
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 ![](<../.gitbook/assets/image (25).png>)
 

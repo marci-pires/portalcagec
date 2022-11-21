@@ -8,7 +8,7 @@ O Portal Cagec disponibiliza, além da Consulta ao CRC, o acesso às pastas digi
 O acesso à pasta digital possibilita que o usuário tenha acesso a toda a documentação encaminhada pelas entidades através de _download_  bem como a situação de Regularidade ou Irregularidade do cadastro geral ou de documentos específicos da entidade.
 
 **1º PASSO:** \
-****Faça Login no [Portal Cagec ](http://www.portalcagec.mg.gov.br)
+****Faça Login no [Portal Cagec ](http://www.portalcagec.mg.gov.br/)
 
 ![](<.gitbook/assets/Captura de Tela 2020-06-23 às 12.31.52.png>)
 

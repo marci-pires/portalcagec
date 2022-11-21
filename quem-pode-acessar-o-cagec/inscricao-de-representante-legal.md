@@ -12,7 +12,7 @@ description: O REPRESENTANTE LEGAL é o dirigente máximo da instituição.
 
 Para cadastrar usuário na modalidade de **REPRESENTANTE LEGAL** siga os seguintes passos:&#x20;
 
-**1º PASSO:** Acesse o [portal Cagec](http://www.portalcagec.mg.gov.br), passe o mouse em "Entrar" e clique em "Novo Usuário"&#x20;
+**1º PASSO:** Acesse o [portal Cagec](http://www.portalcagec.mg.gov.br/), passe o mouse em "Entrar" e clique em "Novo Usuário"&#x20;
 
 ![](<../.gitbook/assets/image 1.png>)
 
@@ -56,7 +56,7 @@ Para cadastrar usuário na modalidade de **REPRESENTANTE LEGAL** siga os seguint
 
 ![](<../.gitbook/assets/image (77).png>)
 
-**10º PASSO:** Clique no ícone ![](<../.gitbook/assets/image (35).png>) no canto superior esquerdo da página e no canto superior esquerdo da página para acessar   "SOLICITAÇÕES"
+**10º PASSO:** Clique no ícone <img src="../.gitbook/assets/image (35).png" alt="" data-size="original"> no canto superior esquerdo da página e no canto superior esquerdo da página para acessar   "SOLICITAÇÕES"
 
 ![](../.gitbook/assets/image4.png)
 

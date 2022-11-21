@@ -4,7 +4,7 @@ Este fluxo possibilita que o usuário anexe DOCUMENTOS do parceiro/convenente.
 
 #### 1º PASSO:
 
-Para solicitar atualização de dados é necessário acessar o portal Cagec no endereço eletrônico: [**http://www.portalcagec.mg.gov.br/**](http://www.portalcagec.mg.gov.br) e adotar as instruções ilustradas a seguir:
+Para solicitar atualização de dados é necessário acessar o portal Cagec no endereço eletrônico: [**http://www.portalcagec.mg.gov.br/**](http://www.portalcagec.mg.gov.br/) e adotar as instruções ilustradas a seguir:
 
 ![](<.gitbook/assets/image (38).png>)
 

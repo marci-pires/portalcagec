@@ -6,7 +6,7 @@ description: Este guia visa demonstrar como é o processo de Cadastro de Novos U
 
 **O CADASTRO** é a fase inicial para um Representante Legal, Responsável pela informação ou qualquer pessoa física que desejar ser um usuário do sistema.
 
-**1º PASSO:** Acesse o [portal Cagec](http://www.portalcagec.mg.gov.br), _passe_ o mouse em "Entrar" e clique em "Novo Usuário"&#x20;
+**1º PASSO:** Acesse o [portal Cagec](http://www.portalcagec.mg.gov.br/), _passe_ o mouse em "Entrar" e clique em "Novo Usuário"&#x20;
 
 ![](<../.gitbook/assets/image (78).png>)
 
