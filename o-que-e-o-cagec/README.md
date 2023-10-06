@@ -5,12 +5,12 @@ O Cadastro Geral de Convenentes do Estado de Minas Gerais – **CAGEC**, criado 
 ## Contato
 
 **Cadastro Geral de Convenentes – CAGEC**\
-****Cidade Administrativa Presidente Tancredo Neves\
+Cidade Administrativa Presidente Tancredo Neves\
 Rodovia Papa João Paulo II, n.º 4001 Edifício Gerais – 1º Andar – Bairro Serra Verde\
 Belo Horizonte – MG – CEP: 31630-901\
 \
 **Telefones de contato:**\
-****☎️(31) 3915-2090 . (31) 3915-2091\
+☎️(31) 3915-2090 . (31) 3915-2091\
 ☎️(31) 3915-2092 . (31) 3915-0882\
 ☎️(31) 3915-8883 . (31) 3915-2749\
 \

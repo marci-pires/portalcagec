@@ -37,7 +37,7 @@
 **8º PASSO:**  Após a juntada da documentação e assinaturas do passo anterior, clique em "ENCAMINHAR SOLICITAÇÃO PARA ANÁLISE\
 🎩 **PRONTO!**\
 Agora é só esperar que a equipe técnica do Cagec analise a solicitação!\
-****
+
 
 ![](<.gitbook/assets/8 (2).png>)
 

@@ -72,6 +72,6 @@
 {% hint style="warning" %}
 ⚠️ **ATENÇÃO:** \
 **Até que a solicitação seja  **_**ENCAMINHADA PARA ANÁLISE**_** ela ficará no status de **_**CRIADA**_** e não poderá ser analisada pela equipe do CAGEC.**\
-****\
+\
 **Caso a solicitação não seja **_**ENCAMINHADA PARA ANÁLISE**_** em até 14 dias úteis após a sua criação, o sistema a excluirá automaticamente.**
 {% endhint %}

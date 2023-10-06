@@ -6,7 +6,7 @@
 
 ### _**SIGA O PASSO A PASSO A SEGUIR:**_&#x20;
 
-### _****_[https://manual.portalcagec.mg.gov.br/inscricao/inscricao-de-representante-legal](https://manual.portalcagec.mg.gov.br/inscricao/inscricao-de-representante-legal)
+### [https://manual.portalcagec.mg.gov.br/inscricao/inscricao-de-representante-legal](https://manual.portalcagec.mg.gov.br/inscricao/inscricao-de-representante-legal)
 
 **PREZADOS USUÁRIOS,**\
 **Esse manual foi desenvolvido com o objetivo de explicar o passo-a-passo para a utilização do sistema CAGEC.**

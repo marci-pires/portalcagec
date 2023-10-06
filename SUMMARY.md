@@ -43,6 +43,8 @@
 * [Gerir Responsáveis pelas Informações](gerir-responsaveis-pelas-informacoes-do-parceiro-convenente/README.md)
   * [Vincular um novo Responsável pela Informação](gerir-responsaveis-pelas-informacoes-do-parceiro-convenente/vincular-um-responsavel-pela-informacao.md)
   * [Desvincular um Responsável pela Informação](gerir-responsaveis-pelas-informacoes-do-parceiro-convenente/desvincular-um-responsavel-pela-informacao.md)
-* [LINK ÚTEIS](links-uteis/README.md)
-  * [Canal do Youtube](https://www.portalcagec.mg.gov.br/youtube)
-  * [Portal EAD](https://www.portalcagec.mg.gov.br/ead)
+
+## LINKS ÚTEIS
+
+* [Canal do Youtube](https://www.portalcagec.mg.gov.br/youtube)
+* [Portal EAD](https://www.portalcagec.mg.gov.br/ead)

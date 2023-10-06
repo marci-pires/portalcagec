@@ -8,9 +8,13 @@
 
 **2º PASSO:** Preencha todos os campos do formulário
 
-![](<.gitbook/assets/Captura de Tela 2020-11-11 às 11.40.23.png>)
+<div align="center">
 
-**3º PASSO:** Após preencher todos os dados clique em salvar ****&#x20;
+<img src=".gitbook/assets/Captura de Tela 2020-11-11 às 11.40.23.png" alt="">
+
+</div>
+
+**3º PASSO:** Após preencher todos os dados clique em salvar&#x20;
 
 ![](<.gitbook/assets/Captura de Tela 2020-11-11 às 11.41.07.png>)
 

@@ -19,8 +19,8 @@ O responsável pelas informações **deverá fazer o processo de inscrição com
 {% tab title="Usuário" %}
 Qualquer pessoa pode ser usuária do sistema, basta acessar o portal do Cagec e fazer o cadastro. \
 Para tornar-se o Representante Legal ou o Responsável pelas informações de algum Convenente/Parceiro é indispensável a inscrição no Portal Cagec como usuário.  **O Cadastro de usuário é indispensável para a consulta às PASTAS DIGITAIS e  ponto de partida para as duas outras modalidades de REPRESENTANTE LEGAL E RESPONSÁVEL PELAS INFORMAÇÕES.**\
-****\
-****⚠️ **NÃO É NECESSÁRIO SER USUÁRIO** para Consultar um Parceiro/Convenente através da **emissão de CRC** ou para verificar a autenticidade de declaração.
+\
+⚠️ **NÃO É NECESSÁRIO SER USUÁRIO** para Consultar um Parceiro/Convenente através da **emissão de CRC** ou para verificar a autenticidade de declaração.
 {% endtab %}
 {% endtabs %}
 
@@ -45,7 +45,7 @@ Para tornar-se o Representante Legal ou o Responsável pelas informações de al
 {% hint style="success" %}
 ## Para VALIDAÇÃO DE CADASTRO  siga o passo a passo a seguir:&#x20;
 
-[**https://manual.portalcagec.mg.gov.br/quem-pode-acessar-o-cagec/criacao-de-senha-de-representante-legal**](https://manual.portalcagec.mg.gov.br/quem-pode-acessar-o-cagec/criacao-de-senha-de-representante-legal)****
+[**https://manual.portalcagec.mg.gov.br/quem-pode-acessar-o-cagec/criacao-de-senha-de-representante-legal**](https://manual.portalcagec.mg.gov.br/quem-pode-acessar-o-cagec/criacao-de-senha-de-representante-legal)
 {% endhint %}
 
 {% hint style="success" %}

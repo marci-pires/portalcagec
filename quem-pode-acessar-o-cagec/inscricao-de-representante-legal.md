@@ -6,8 +6,8 @@ description: O REPRESENTANTE LEGAL é o dirigente máximo da instituição.
 
 {% hint style="warning" %}
 **APENAS O REPRESENTANTE LEGAL PODE ASSINAR OS DOCUMENTOS DIGITALMENTE.**\
-****\
-&#x20;**** :warning: **A assinatura dos documentos SÓ PODERÁ SER EFETUADA através do usuário e senha do Representante Legal.**
+\
+&#x20;:warning: **A assinatura dos documentos SÓ PODERÁ SER EFETUADA através do usuário e senha do Representante Legal.**
 {% endhint %}
 
 Para cadastrar usuário na modalidade de **REPRESENTANTE LEGAL** siga os seguintes passos:&#x20;
@@ -24,7 +24,7 @@ Para cadastrar usuário na modalidade de **REPRESENTANTE LEGAL** siga os seguint
 
 ![](../.gitbook/assets/image2.png)
 
-****\
+\
 **3º PASSO:** Após clicar em salvar, aparecerá a seguinte tela
 
 ![](../.gitbook/assets/image3.png)
@@ -58,7 +58,11 @@ Para cadastrar usuário na modalidade de **REPRESENTANTE LEGAL** siga os seguint
 
 **10º PASSO:** Clique no ícone <img src="../.gitbook/assets/image (35).png" alt="" data-size="original"> no canto superior esquerdo da página e no canto superior esquerdo da página para acessar   "SOLICITAÇÕES"
 
-![](../.gitbook/assets/image4.png)
+<div align="center">
+
+<img src="../.gitbook/assets/image4.png" alt="">
+
+</div>
 
 **11º PASSO:** Após clicar no ícone aparecerá a tela ilustrada logo abaixo. Nesta tela, clique no ícone de “Solicitações” e em seguida selecione a opção “Solicitar Inscrição Parceiro/Convenente”.\
 

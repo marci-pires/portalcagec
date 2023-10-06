@@ -12,7 +12,7 @@ Acesse o [Portal Cagec ](http://www.portalcagec.mg.gov.br/)
 ![](.gitbook/assets/01.png)
 
 **2º PASSO:**\
-****Clique em **"CERTIFICADO/AUTENTICAÇÃO"** em seguida em **"CONSULTA CERTIFICADO":**
+Clique em **"CERTIFICADO/AUTENTICAÇÃO"** em seguida em **"CONSULTA CERTIFICADO":**
 
 ![](.gitbook/assets/2.png)
 
@@ -22,7 +22,7 @@ Informe um ou dois campos (filtros) de pesquisa e clique no botão <img src=".gi
 ![](.gitbook/assets/4.png)
 
 **4º PASSO:**\
-****Após localizar o Parceiro/Convenente pesquisado clique em EMITIR CRC" para fazer o _download_ do arquivo.
+Após localizar o Parceiro/Convenente pesquisado clique em EMITIR CRC" para fazer o _download_ do arquivo.
 
 ![](.gitbook/assets/5.png)
 

@@ -5,7 +5,7 @@ O sistema do CAGEC pode ser acessado pelo [**GOV.BR**](https://www.gov.br/pt-br)
 {% hint style="info" %}
 Para acessar, é necessário possuir cadastro no [GOV.BR](https://www.gov.br/governodigital/pt-br/conta-gov-br).
 
-****[**Clique aqui** para acessar o tutorial de cadastro.](https://www.gov.br/governodigital/pt-br/conta-gov-br/conta-gov-br/)
+[**Clique aqui** para acessar o tutorial de cadastro.](https://www.gov.br/governodigital/pt-br/conta-gov-br/conta-gov-br/)
 {% endhint %}
 
 

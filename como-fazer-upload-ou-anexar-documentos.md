@@ -16,19 +16,19 @@ Na aba de incluir documento, selecionar o agrupamento desejado:
 
 ![](<.gitbook/assets/image (51).png>)
 
-****\
+\
 **3º Passo:** Selecionar o documento desejado, lembrando que o sistema só possibilita a inserção de um documento por vez ou de todos ao mesmo tempo:
 
 ![](<.gitbook/assets/image (52).png>)
 
-****\
+\
 **4º Passo:** Clicar na primeira seta para inserir o documento:
 
 ![](<.gitbook/assets/image (53).png>)
 
 ![](<.gitbook/assets/image (71).png>)
 
-****\
+\
 **5 º Passo:** Refazer a operação até que todos os documentos desejados estejam selecionados e clicar no botão salvar:
 
 ![](<.gitbook/assets/image (55).png>)
@@ -37,7 +37,7 @@ Ou então, apertar o botão marcado abaixo para transportar todos os documentos 
 
 ![](<.gitbook/assets/image (72).png>)
 
-****\
+\
 **6º Passo:** Para a anexação de documentos no sistema, o usuário deverá clicar no botão "Ação" e posteriormente na opção "Entregar Digitalmente":
 
 ![](<.gitbook/assets/image (57).png>)
@@ -68,12 +68,12 @@ O documento “Termo de Declaração e Concordância e Veracidade” possui uma 
 
 ![](<.gitbook/assets/image (65).png>)
 
-****\
+\
 **9º Passo:** Após a impressão e assinatura pelo representante legal, o documento deve ser anexado ao sistema seguindo a mesma lógica descrita no item 13.
 
 ![](<.gitbook/assets/image (67).png>)
 
-****\
+\
 **10º Passo:** Por fim, após a anexação e a assinatura dos documentos o parceiro/convenente deverá clicar no botão finalizar solicitação, onde será gerado o número da mesma e o processo é encaminhado para avaliação da equipe gestora do Cagec.
 
 ![](<.gitbook/assets/image (68).png>)

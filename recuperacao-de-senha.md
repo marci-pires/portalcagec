@@ -4,7 +4,7 @@ Acesse o [Portal do Cagec](https://app.gitbook.com/s/-Lz3vtvsJLmY9bJtxnM8/WWW.PO
 
 **1º PASSO:**Passe o mouse no item **ENTRAR** e clique em **Esqueceu sua senha? ou Usuário Bloqueado?**
 
-****
+
 
 ![](<.gitbook/assets/image (79).png>)
 
