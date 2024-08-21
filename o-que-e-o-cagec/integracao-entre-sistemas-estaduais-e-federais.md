@@ -2,11 +2,11 @@
 description: de cadastros de convenentes?
 ---
 
-# 🖥 🔄 💻 Integração entre Sistemas Estaduais e Federais
+# 🖥️ 🔄 💻 Integração entre Sistemas Estaduais e Federais
 
-A integração entre sistemas ocorrerá nos termos do Art. 15 da Resolução Segov/Cge de 05 de 24 de janeiro de 2020 e prevê a obtenção de dados e documentos  automaticamente por meio de integração com os seguintes sistemas:  SIAFI; Caixa Econômica Federal;  SIARE - MG;  SEF;  CADIN; InfoConv - WS da RFB;  o SIP da Polícia Civil de Minas Gerais; SRM;  CAFIMP;  outros sistemas mantidos por órgãos e entidades públicas estaduais e de outros entes federados.
+A integração entre sistemas ocorrerá nos termos do Art. 15 da Resolução Segov/CGE de 01 de 03 de janeiro de 2024 e prevê a obtenção de dados e documentos  automaticamente por meio de integração com os seguintes sistemas:  SIAFI; Caixa Econômica Federal;  SIARE - MG;  SEF,  CADIN, InfoConv - WS da RFB,  o SIP da Polícia Civil de Minas Gerais, SRM,  CAFIMP, CEPIM,  outros sistemas mantidos por órgãos e entidades públicas estaduais e de outros entes federados.
 
-A descrição detalhada dos sistemas consta no artigo transcrito abaixo, entretanto, é importante ressaltar que o rol de sistemas informados é exemplificativo,  e de acordo com o inciso IX a SEGOV poderá \(continua\)
+A descrição detalhada dos sistemas consta no artigo transcrito abaixo, entretanto, é importante ressaltar que o rol de sistemas informados é exemplificativo,  e de acordo com o inciso IX a SEGOV poderá (continua)
 
 
 
@@ -28,7 +28,7 @@ VII - a Sistema de Registro Mercantil – SRM, para os fornecedores registrados 
 
 VIII - o Cadastro de Fornecedores Impedidos de Licitar e Contratar com a Administração Pública Estadual – CAFIMP, ou outro sistema que vier a substituí-lo;
 
-IX - outros sistemas mantidos por órgãos e entidades públicas estaduais e de outros entes federados. 
+IX - outros sistemas mantidos por órgãos e entidades públicas estaduais e de outros entes federados.&#x20;
 
 § 1º - A equipe gestora do Cagec manterá, no Portal de Convenentes, a relação de todas as integrações disponíveis no sistema.
 
@@ -43,4 +43,3 @@ IX - outros sistemas mantidos por órgãos e entidades públicas estaduais e de 
 I - quando a integração ocorrer com sistemas que emitem documentos com data de validade, apresentar a documentação que comprove o cumprimento das obrigações correspondentes à equipe gestora do Cagec;
 
 II - quando a integração ocorrer com sistemas que exibem a situação do convenente/parceiro no momento da consulta, apresentar ao órgão ou entidade estadual repassador dos recursos estaduais a comprovação da situação do convenente/parceiro quando da celebração e do pagamento de instrumentos jurídicos, nos termos da legislação específica.
-

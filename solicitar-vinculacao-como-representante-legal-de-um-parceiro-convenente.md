@@ -9,7 +9,7 @@
 
 **3º PASSO:**  Insira o CNPJ da Pessoa Jurídica representada pelo usuário e clique em PESQUISAR:
 
-![](<.gitbook/assets/2 (3).png>)
+![](.gitbook/assets/Screenshot\_5.png)
 
 **4º PASSO:**  Após digitar o CNPJ, o sistema encontrará a Pessoa Jurídica previamente cadastrada no CAGEC:
 
@@ -19,16 +19,16 @@
 [https://manual.portalcagec.mg.gov.br/quem-pode-acessar-o-cagec/inscricao-de-representante-legal](https://manual.portalcagec.mg.gov.br/quem-pode-acessar-o-cagec/inscricao-de-representante-legal)
 {% endhint %}
 
-![](<.gitbook/assets/3 (3).png>)
+![](.gitbook/assets/Screenshot\_6.png)
 
 **5º PASSO:** Em seguida o sistema mostrará a seguinte tela: Clique em \
 "REPRESENTANTE LEGAL":
 
-![](<.gitbook/assets/4 (3).png>)
+![](.gitbook/assets/Screenshot\_7.png)
 
 **6º PASSO:** Preencha todos os dados e clique em **SALVAR**:
 
-![](<.gitbook/assets/5 (3).png>)
+![](.gitbook/assets/Screenshot\_8.png)
 
 **7º PASSO:** Em seguida, na aba "DOCUMENTAÇÃO" anexe todos os documentos marcados de rosa e assine COM USUÁRIO E SENHA todos os documentos marcados em amarelo.
 

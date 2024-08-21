@@ -43,7 +43,7 @@
 
 **10º PASSO:** Ao cadastrar o **"REPRESENTANTE LEGAL"** preencha todos os dados, em seguida  **anexe os documentos** para o Credenciamento do Representante Legal e clique em "**SALVAR"**
 
-![](.gitbook/assets/11.png)
+![](.gitbook/assets/Screenshot\_12.png)
 
 **11º PASSO:** Após cadastrar o Representante Legal, **cadastre TODOS os dirigentes da instituição, ao final clique em "SALVAR"**
 

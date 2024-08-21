@@ -60,7 +60,7 @@ No campo " DATA DE ABERTURA", o dado a ser preenchido é a data de abertura  do 
 
 A aba “Quadro de Dirigentes” permite alterações dos dados do representante legal e do quadro de dirigentes, sendo este último de preenchimento necessário apenas para o gênero “Organizações da Sociedade Civil”, gênero “Fundos Municipais” e gênero “Serviços Sociais Autônomos”. As edições e exclusões são feitas pelos ícones de “pincel” e “lixeira”, respectivamente, dentro da coluna ações.
 
-![](<.gitbook/assets/image (46).png>)
+![](.gitbook/assets/Screenshot\_13.png)
 
 #### 10º passo
 
@@ -128,9 +128,9 @@ Além da anexação, alguns documentos são gerados pelo próprio sistema e só 
 
 ![](<.gitbook/assets/image (62).png>)
 
-![](<.gitbook/assets/image (63).png>)
+![](.gitbook/assets/Screenshot\_14.png)
 
-![](<.gitbook/assets/image (64).png>)
+![](.gitbook/assets/Screenshot\_15.png)
 
 #### 14º passo
 

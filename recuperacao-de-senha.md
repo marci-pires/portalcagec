@@ -22,4 +22,4 @@ Acesse o [Portal do Cagec](https://app.gitbook.com/s/-Lz3vtvsJLmY9bJtxnM8/WWW.PO
 
 **5º PASSO:** O procedimento para troca de senha será encaminhado para o e-mail previamente cadastrado
 
-![](<.gitbook/assets/image (22).png>)
+![](.gitbook/assets/Screenshot\_9.png)
