@@ -58,9 +58,9 @@ Além da anexação, alguns documentos são gerados pelo próprio sistema e só 
 
 ![](<.gitbook/assets/image (62).png>)
 
-![](<.gitbook/assets/image (63).png>)
+![](.gitbook/assets/Screenshot\_20.png)
 
-![](<.gitbook/assets/image (64).png>)
+![](.gitbook/assets/Screenshot\_21.png)
 
 #### 8º passo
 
