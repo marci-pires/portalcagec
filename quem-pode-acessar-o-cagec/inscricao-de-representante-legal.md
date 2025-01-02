@@ -58,11 +58,7 @@ Para cadastrar usuário na modalidade de **REPRESENTANTE LEGAL** siga os seguint
 
 **10º PASSO:** Clique no ícone <img src="../.gitbook/assets/image (35).png" alt="" data-size="original"> no canto superior esquerdo da página e no canto superior esquerdo da página para acessar   "SOLICITAÇÕES"
 
-<div align="center">
-
-<img src="../.gitbook/assets/image4.png" alt="">
-
-</div>
+<div align="center"><img src="../.gitbook/assets/image4.png" alt=""></div>
 
 **11º PASSO:** Após clicar no ícone aparecerá a tela ilustrada logo abaixo. Nesta tela, clique no ícone de “Solicitações” e em seguida selecione a opção “Solicitar Inscrição Parceiro/Convenente”.\
 
@@ -156,7 +152,7 @@ Para a anexação de documentos no sistema, o usuário deverá clicar no botão 
 
 ![](<../.gitbook/assets/image (58).png>)
 
-O usuário, então, irá escolher o arquivo a ser anexado e inserirá, na maior parte dos casos, a data de validade do mesmo. Cabe ressaltar que documentos que naturalmente não possuem data de validade, tais como inscrição do CNPJ, estatuto de organizações da sociedade civil, identificação do representante legal, por força da Resolução Conjunta SEGOV/CGE nº 05/2020, possuem como data de validade a data do término do mandato do representante legal.
+O usuário, então, irá escolher o arquivo a ser anexado e inserirá, na maior parte dos casos, a data de validade do mesmo. Cabe ressaltar que documentos que naturalmente não possuem data de validade, tais como inscrição do CNPJ, estatuto de organizações da sociedade civil, identificação do representante legal, por força da Resolução Conjunta SEGOV/CGE nº 02/2024, possuem como data de validade a data do término do mandato do representante legal.
 
 ![](<../.gitbook/assets/image (59).png>)
 

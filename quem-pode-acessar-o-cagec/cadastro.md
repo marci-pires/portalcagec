@@ -153,7 +153,9 @@ Para a anexação de documentos no sistema, o usuário deverá clicar no botão 
 
 ![](<../.gitbook/assets/image (58).png>)
 
-O usuário, então, irá escolher o arquivo a ser anexado e inserirá, na maior parte dos casos, a data de validade do mesmo. Cabe ressaltar que documentos que naturalmente não possuem data de validade, tais como inscrição do CNPJ, estatuto de organizações da sociedade civil, identificação do representante legal, por força da Resolução Conjunta SEGOV/CGE nº 05/2020, possuem como data de validade a data do término do mandato do representante legal.
+O usuário, então, irá escolher o arquivo a ser anexado e inserirá, na maior parte dos casos, a data de validade do mesmo. Cabe ressaltar que documentos que naturalmente não possuem data de validade, tais como inscrição do CNPJ, estatuto de organizações da sociedade civil, identificação do representante legal, por força da Resolução Conjunta SEGOV/CGE nº  omo data de validade a data do término do mandato do representante legal.
+
+
 
 ![](<../.gitbook/assets/image (59).png>)
 
@@ -169,7 +171,7 @@ Além da anexação, alguns documentos são gerados pelo próprio sistema e só 
 
 ![](<../.gitbook/assets/image (62).png>)
 
-![](../.gitbook/assets/Screenshot\_18.png)
+![](../.gitbook/assets/Screenshot_18.png)
 
 <figure><img src="../.gitbook/assets/Screenshot_19.png" alt=""><figcaption></figcaption></figure>
 
