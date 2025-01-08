@@ -4,7 +4,7 @@ description: de cadastros de convenentes?
 
 # 🖥️ 🔄 💻 Integração entre Sistemas Estaduais e Federais
 
-A integração entre sistemas ocorrerá nos termos do Art. 15 da Resolução Segov/CGE de 01 de 03 de janeiro de 2024 e prevê a obtenção de dados e documentos  automaticamente por meio de integração com os seguintes sistemas:  SIAFI; Caixa Econômica Federal;  SIARE - MG;  SEF,  CADIN, InfoConv - WS da RFB,  o SIP da Polícia Civil de Minas Gerais, SRM,  CAFIMP, CEPIM,  outros sistemas mantidos por órgãos e entidades públicas estaduais e de outros entes federados.
+A integração entre sistemas ocorrerá nos termos do Art. 15 da Resolução Segov/CGE de 02 de 31 de dezembro de 2024 e prevê a obtenção de dados e documentos  automaticamente por meio de integração com os seguintes sistemas:  SIAFI; Caixa Econômica Federal;  SIARE - MG;  SEF,  CADIN, InfoConv - WS da RFB,  o SIP da Polícia Civil de Minas Gerais, SRM,  CAFIMP, CEPIM,  outros sistemas mantidos por órgãos e entidades públicas estaduais e de outros entes federados.
 
 A descrição detalhada dos sistemas consta no artigo transcrito abaixo, entretanto, é importante ressaltar que o rol de sistemas informados é exemplificativo,  e de acordo com o inciso IX a SEGOV poderá (continua)
 
