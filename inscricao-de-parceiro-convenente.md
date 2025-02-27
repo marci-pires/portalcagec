@@ -43,7 +43,7 @@
 
 **10º PASSO:** Ao cadastrar o **"REPRESENTANTE LEGAL"** preencha todos os dados, em seguida  **anexe os documentos** para o Credenciamento do Representante Legal e clique em "**SALVAR"**
 
-![](.gitbook/assets/Screenshot\_12.png)
+![](.gitbook/assets/Screenshot_12.png)
 
 **11º PASSO:** Após cadastrar o Representante Legal, **cadastre TODOS os dirigentes da instituição, ao final clique em "SALVAR"**
 
@@ -71,7 +71,7 @@
 
 {% hint style="warning" %}
 ⚠️ **ATENÇÃO:** \
-**Até que a solicitação seja  **_**ENCAMINHADA PARA ANÁLISE**_** ela ficará no status de **_**CRIADA**_** e não poderá ser analisada pela equipe do CAGEC.**\
+**Até que a solicitação seja &#x20;**_**ENCAMINHADA PARA ANÁLISE**_**&#x20;ela ficará no status de&#x20;**_**CRIADA**_**&#x20;e não poderá ser analisada pela equipe do CAGEC.**\
 \
-**Caso a solicitação não seja **_**ENCAMINHADA PARA ANÁLISE**_** em até 14 dias úteis após a sua criação, o sistema a excluirá automaticamente.**
+**Caso a solicitação não seja&#x20;**_**ENCAMINHADA PARA ANÁLISE**_**&#x20;em até 14 dias úteis após a sua criação, o sistema a excluirá automaticamente.**
 {% endhint %}
