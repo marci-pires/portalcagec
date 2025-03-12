@@ -10,6 +10,6 @@ Nesta fase inicial, apenas alguns documentos estarão no rol do PIAD: [**CAUC**]
 
 Caso você tenha que anexar uns deses documento acima, clique no botão abaixo à direita para conhecer um pouco mais sobre a cartilha de uso e tutorial.
 
-[^1]: Conceito&#x20;
+[^1]: Extrato do Serviço Auxiliar de Informações para Transferências Voluntárias (CAUC)
 
-[^2]: Conceito
+[^2]: Certidão Negativa de Débitos Trabalhistas

@@ -55,14 +55,13 @@ Faça o upload do arquivo no formato PDF (preferencialmente) e de imagem: jpeg/j
 
 Confirme os dados preenchidos.&#x20;
 
-3. <mark style="color:purple;background-color:yellow;">A</mark><mark style="color:purple;background-color:blue;">companhamento do Status: (?)</mark>
-4. **Critérios de Análise -**&#x54;odos os documentos serão avaliados com base em: &#x20;
+3. **Critérios de Análise -**&#x54;odos os documentos serão avaliados com base em: &#x20;
 
 * Legibilidade
 * Conformidade com padrões estabelecidos
 * Validade das informações
 
-5. **Casos Especiais - Análise Manual:**&#x20;
+4. **Casos Especiais - Análise Manual:**&#x20;
 
 Mesmo com a automatização, ainda haverá a análise manual nas seguintes hipóteses:
 
