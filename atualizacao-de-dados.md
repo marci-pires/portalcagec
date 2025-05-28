@@ -24,9 +24,9 @@ Clique no ícone de menu <img src=".gitbook/assets/image (40).png" alt="" data-s
 
 #### 4º passo
 
-Após clicar no ícone aparecerá a tela ilustrada logo abaixo. Nesta tela, clique no ícone de “Solicitações” e em seguida selecione a opção “Solicitar Alteração de Dados e Documentos do Parceiro/Convenente”.
+Após clicar no ícone aparecerá a tela ilustrada logo abaixo. Nesta tela, clique no ícone de “Solicitações” e em seguida selecione a opção “Solicitar Atualização de Dados do Parceiro/Convenente”.
 
-![](<.gitbook/assets/solicitar atualização de dados e documentos do parceiro.png>)
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 #### 5º passo&#x20;
 
@@ -60,7 +60,7 @@ No campo " DATA DE ABERTURA", o dado a ser preenchido é a data de abertura  do 
 
 A aba “Quadro de Dirigentes” permite alterações dos dados do representante legal e do quadro de dirigentes, sendo este último de preenchimento necessário apenas para o gênero “Organizações da Sociedade Civil”, gênero “Fundos Municipais” e gênero “Serviços Sociais Autônomos”. As edições e exclusões são feitas pelos ícones de “pincel” e “lixeira”, respectivamente, dentro da coluna ações.
 
-![](.gitbook/assets/Screenshot\_13.png)
+![](.gitbook/assets/Screenshot_13.png)
 
 #### 10º passo
 
@@ -128,9 +128,9 @@ Além da anexação, alguns documentos são gerados pelo próprio sistema e só 
 
 ![](<.gitbook/assets/image (62).png>)
 
-![](.gitbook/assets/Screenshot\_14.png)
+![](.gitbook/assets/Screenshot_14.png)
 
-![](.gitbook/assets/Screenshot\_15.png)
+![](.gitbook/assets/Screenshot_15.png)
 
 #### 14º passo
 

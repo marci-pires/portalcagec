@@ -11,7 +11,7 @@ Ao criar sua solicitação de atualização de documentos/alteração de dados, 
 
 1. Escolha a opção “Entregar Digitalmente” em Ações, e a mensagem abaixo será exibida:
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Após apertar OK a tela abaixo será exibida para que anexe seu documento.&#x20;
 
@@ -90,7 +90,7 @@ Repare que ao anexar o arquivo, o status do campo  “Ações” será preenchid
 
 OBS: Após o fluxo "<mark style="color:green;">**satisfatório**</mark>" acima, caso algum do itens do documento fique com status em **branco**, preencha a data de validade clicando em "ações":
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Continue anexando os demais documentos ([_tutorial anexar docs/solicitação_](../../../dados-e-documentos-necessarios-para-a-regularidade-da-instituicao/)) para prosseguir.&#x20;
 
